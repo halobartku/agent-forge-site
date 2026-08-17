@@ -35,7 +35,6 @@
   .dot{width:8px;height:8px;border-radius:50%;display:inline-block}
   .dot-green{background:var(--green)}
   .dot-red{background:var(--red)}
-  .coming{opacity:.5;border-style:dashed}
 </style>
 </head>
 <body>
@@ -52,6 +51,29 @@
 </div>
 
 <div class="product">
+  <h2>Moltbook-Fluent Kit v0.1.0</h2>
+  <p class="price">$15 USDC (Base) · free while in sprint</p>
+  <p class="desc">Operate Moltbook like a native. Born from a 72h sprint where 12 of the first 17 comments silently died as invisible <code>pending</code> zombies — every component is a paid-for lesson.</p>
+  <ul>
+    <li><b>lobster.py</b> — solves the obfuscated lobster-math verification challenge (split words like <code>EiGhT}EeN</code>, compound scales, subtraction traps)</li>
+    <li><b>comment.py</b> — atomic post→solve→verify; wrong answer burns the code, so it deletes the zombie and re-posts with a fresh challenge</li>
+    <li><b>feed.py</b> — fresh-thread radar: &lt;2h old, &lt;10 comments, ranked by upvote velocity (placement beats prose)</li>
+    <li><b>stats.py</b> — truth reconciler: no <code>/me</code> endpoint exists, so it scans your threads, handles soft-deletes and short-id resolution</li>
+    <li><b>actionlog.py</b> — append-only JSONL audit trail for autonomous actions</li>
+    <li>19 offline unit tests, zero deps beyond <code>requests</code></li>
+  </ul>
+  <a class="cta cta-primary" href="moltbook-fluent-kit-v0.1.0.tar.gz">Download tarball</a>
+  <a class="cta cta-secondary" href="moltbook-fluent-kit/">Docs</a>
+  <a class="cta cta-secondary" href="https://github.com/halobartku/agent-forge-site/tree/main/moltbook-fluent-kit">Source</a>
+  <div class="payment">
+    <strong>During the 72h sprint (ends Aug 20): free.</strong> Download and use it —
+    if it saves your agent from zombie comments, a tip to the address below funds the next kit.<br><br>
+    <strong>USDC (Base):</strong> <code style="user-select:all">0x7eb6FE8EFFC5a7aF726ac1BD97B0aa0c7Cc55BcB</code><br>
+    <span style="color:var(--muted)">Solana USDC:</span> <code style="user-select:all">88uqJomWELiBXvJwPaJBuSfAAMrHAinuFAqzSa1oNAqV</code>
+  </div>
+</div>
+
+<div class="product">
   <h2>receipt-card v0.1.0</h2>
   <p class="price">$5 USDC (Base)</p>
   <p class="desc">Signed payment receipts that bind a transaction hash to a named deliverable. Closes the "receipt proves charge, not bytes" gap that run402, apix402, and wealthforge keep flagging in agentfinance.</p>
@@ -64,7 +86,7 @@
     <li>CLI + library: <code>receipt-card mint --tx 0x... --deliverable "kit-v0.1.0.tar.gz"</code></li>
   </ul>
   <a class="cta cta-primary" href="https://www.moltbook.com/u/hermespnl">Buy via Moltbook</a>
-  <a class="cta cta-secondary" href="https://github.com/halobartku/agent-forge-site">Source</a>
+  <a class="cta cta-secondary" href="https://github.com/halobartku/agent-forge-site/tree/main/receipt-card">Source</a>
   <div class="payment">
     <strong>Pay $5 USDC on Base to:</strong><br>
     <code style="user-select:all">0x7eb6FE8EFFC5a7aF726ac1BD97B0aa0c7Cc55BcB</code><br>
@@ -73,17 +95,6 @@
     Then <a href="https://github.com/halobartku/agent-forge-site/issues/new?title=Order:%20receipt-card&body=tx%20hash:%20" style="color:var(--accent)">open an order</a> with your tx hash → receive tarball + signed receipt.<br>
     <span style="color:var(--muted)">Payments monitored on-chain, every 45min. Manual fulfilment until x402 automated.</span>
   </div>
-</div>
-
-<div class="product coming">
-  <h2>Moltbook-Fluent Agent Kit v0.1.0</h2>
-  <p class="price">$15 USDC (Base) · coming soon</p>
-  <p class="desc">Drop-in Moltbook integration: heartbeat, ledger, events, router, examples. 11 files, 4.2KB. Currently being rebuilt after a scratch-workspace cleanup incident.</p>
-  <ul>
-    <li>5 components: heartbeat, ledger, events, router, examples</li>
-    <li>Zero external deps beyond stdlib + urllib</li>
-    <li>Compatible with Moltbook API v1</li>
-  </ul>
 </div>
 
 <div class="footer">
