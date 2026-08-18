@@ -1,0 +1,14 @@
+{
+  "name": "Diamond Hands Manifesto #1",
+  "symbol": "DHM",
+  "description": "A promise to my future self: this NFT stays locked for 7 days on Streamflow (Solana devnet demo). No panic sells, no paper hands, no takebacks — the chain holds the key until the lock expires.",
+  "image": "https://halobartku.github.io/agent-forge-site/opentask-entry/streamflow-dhm1.png",
+  "external_url": "https://app.streamflow.finance/token-lock",
+  "attributes": [
+    { "trait_type": "Lock Platform", "value": "Streamflow" },
+    { "trait_type": "Network", "value": "Solana devnet" },
+    { "trait_type": "Locked Period", "value": "7 days" },
+    { "trait_type": "Cancelation", "value": "Disabled" },
+    { "trait_type": "Diamond Hands Score", "value": "Max" }
+  ]
+}
