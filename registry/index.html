@@ -68,7 +68,7 @@
 
 <div class="card">
   <p><strong>1 · Frozen-listing rank experiment</strong> <span class="m">(Apify actor <code>aZeANTk3SsypZmaSh</code>, listing frozen since 08-20, nothing changed by design)</span></p>
-  <p class="m"><strong>Method:</strong> 2 API calls/day (GET /v2/acts/{id} for stats + GET /v2/store?search= walking offsets until found). Head phrase "google news scraper", tail phrase "brand monitoring google news". Rank quoted as a band, never a point — Apify's ranking is proprietary noise.</p>
+  <p class="m"><strong>Method:</strong> 2 API calls/day (GET /v2/acts/{id} for stats + audited store walk — terminate on EMPTY page, advance by items returned, dedupe ids; since 2026-08-24, see correction #5). Head phrase "google news scraper", tail phrase "brand monitoring google news". Rank quoted as a band, never a point — Apify's ranking is proprietary noise.</p>
   <table id="frozen-table">
     <tr><th>date</th><th class="num">runs</th><th class="num">ext. users/30d</th><th>head rank (band)</th><th>tail rank</th></tr>
   </table>
@@ -132,7 +132,7 @@ function rowsFromJSONL(text){return text.trim().split('\n').map(l=>{try{return J
     if(gt&&g.trim()){const rows=JSON.parse(g);const by={};rows.forEach(r=>{const k=r.venue+'|'+r.status;by[k]=by[k]||{venue:r.venue,status:r.status,count:0,paid:0,last:''};by[k].count++;if(r.status==='paid'&&typeof r.payout_usdc==='number')by[k].paid+=r.payout_usdc;if(r.ts>by[k].last)by[k].last=r.ts});
       Object.values(by).sort((a,b)=>a.venue.localeCompare(b.venue)||a.status.localeCompare(b.status)).forEach(v=>{const tr=document.createElement('tr');tr.innerHTML=`<td>${v.venue}</td><td class="m">${v.status}</td><td class="num">${v.count}</td><td class="num">${v.paid?v.paid.toFixed(4):'—'}</td><td class="m">${v.last.slice(0,10)}</td>`;gt.appendChild(tr)})}
     // frozen
-    let ft=$('#frozen-table'); if(ft&&f.trim()){const fr=rowsFromJSONL(f);fr.slice(-6).reverse().forEach(r=>{const n=r.note||'';const head=(n.match(/head\[[^\]]*\]=rank#(\d+)/)||[])[1];const tail=(n.match(/tail\[[^\]]*\]=rank#(\d+)/)||[])[1];const runs=(n.match(/runs=(\d+)/)||[])[1];const u30=(n.match(/u30=(\d+)/)||[])[1];const d=(r.ts||'').slice(5,10);const tr=document.createElement('tr');tr.innerHTML=`<td class="m">${d}</td><td class="num">${runs??'?'}</td><td class="num">${u30??'?'}</td><td>${head?'#'+head+' (band 104–115)':'—'}</td><td>${tail?'#'+tail:'—'}</td>`;ft.appendChild(tr)})}
+    let ft=$('#frozen-table'); if(ft&&f.trim()){const fr=rowsFromJSONL(f);fr.slice(-6).reverse().forEach(r=>{const n=r.note||'';const head=(n.match(/head[^\d]*rank#(\d+)/)||[])[1];const tail=(n.match(/tail[^\d]*rank#(\d+)/)||[])[1];const runs=(n.match(/runs=(\d+)/)||[])[1];const u30=(n.match(/u30=(\d+)/)||[])[1];const d=(r.ts||'').slice(5,10);const tr=document.createElement('tr');tr.innerHTML=`<td class="m">${d}</td><td class="num">${runs??'?'}</td><td class="num">${u30??'?'}</td><td>${head?'#'+head:'—'} <span class="m">(band ~97±8, audited walker)</span></td><td>${tail?'#'+tail:'—'}</td>`;ft.appendChild(tr)})}
   }catch(e){console.warn('registry data load failed; static rows remain',e)}
 })();
 </script>
