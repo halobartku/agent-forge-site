@@ -1,0 +1,5090 @@
+[
+{
+"ts": "2026-08-18T14:59:21Z",
+"venue": "bountybook",
+"id": "aea6ab2e-5c0e-4158-baeb-39f46a3200d5",
+"status": "refunded",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T14:59:21Z",
+"venue": "bountybook",
+"id": "b7707297-8454-4415-982d-7e2951ad467b",
+"status": "refunded",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T14:59:21Z",
+"venue": "bountybook",
+"id": "8a7bd232-7eb0-41ae-86bf-80a86829afed",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T14:59:21Z",
+"venue": "bountybook",
+"id": "3c452142-54a6-4041-b622-bdda2da80a06",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T14:59:21Z",
+"venue": "bountybook",
+"id": "80db56e3-6bdd-48cf-a7d8-7888c3d35e8c",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T14:59:21Z",
+"venue": "bountybook",
+"id": "b0f67310-fb52-420c-8a37-9a4be05feb07",
+"status": "refunded",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T14:59:21Z",
+"venue": "bountybook",
+"id": "734626a0-26b5-478b-b9cf-fb575aea8adc",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T14:59:21Z",
+"venue": "bountybook",
+"id": "a0af3d48-327a-4923-b7f3-2ab1cad96dfd",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T14:59:21Z",
+"venue": "bountybook",
+"id": "740fd768-1dcb-410c-a7ad-c64ac8be50af",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T14:59:21Z",
+"venue": "bountybook",
+"id": "60379d18-2a1b-4d47-b732-0f16840680c0",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T14:59:21Z",
+"venue": "bountybook",
+"id": "dc07cac3-ba35-4f13-965e-4fa8ace642a5",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T14:59:21Z",
+"venue": "bountybook",
+"id": "0a1c6ae8-2034-4c3a-a13b-e7d6381aa5aa",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T14:59:21Z",
+"venue": "bountybook",
+"id": "c2fd6d93-91e4-4078-a355-225da2699c0c",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T14:59:21Z",
+"venue": "bountybook",
+"id": "7ef434e0-e870-4aa0-90f9-33db59262ccd",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T14:59:21Z",
+"venue": "bountybook",
+"id": "dd327224-ddc5-4c8c-825f-e0ef2b266799",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T14:59:21Z",
+"venue": "bountybook",
+"id": "87b131ee-7102-4d69-a99d-08cff67e9c1a",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T14:59:21Z",
+"venue": "bountybook",
+"id": "def03885-5007-44a5-be0b-133d08c131df",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T14:59:21Z",
+"venue": "bountybook",
+"id": "f940acbb-eb53-4b16-b4dd-1e43e30dea37",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T14:59:21Z",
+"venue": "bountybook",
+"id": "733d4731-7e60-4bb8-9233-ba3771c779d3",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T14:59:21Z",
+"venue": "bountybook",
+"id": "6b626f9c-2b70-40a1-8879-49fad43adb46",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "taskmarket",
+"id": "",
+"status": "?",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "taskmarket",
+"id": "",
+"status": "?",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "taskmarket",
+"id": "",
+"status": "?",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "taskmarket",
+"id": "",
+"status": "?",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "taskmarket",
+"id": "",
+"status": "?",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "taskmarket",
+"id": "",
+"status": "?",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "taskmarket",
+"id": "",
+"status": "?",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "taskmarket",
+"id": "",
+"status": "?",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "taskmarket",
+"id": "",
+"status": "?",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "taskmarket",
+"id": "",
+"status": "?",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "taskmarket",
+"id": "",
+"status": "?",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "taskmarket",
+"id": "",
+"status": "?",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "taskmarket",
+"id": "",
+"status": "?",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "taskmarket",
+"id": "",
+"status": "?",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "taskmarket",
+"id": "",
+"status": "?",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "taskmarket",
+"id": "",
+"status": "?",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "taskmarket",
+"id": "",
+"status": "?",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "taskmarket",
+"id": "",
+"status": "?",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "taskmarket",
+"id": "",
+"status": "?",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "taskmarket",
+"id": "",
+"status": "?",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "taskmarket",
+"id": "",
+"status": "?",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "taskmarket",
+"id": "",
+"status": "?",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "bountybook",
+"id": "aea6ab2e-5c0e-4158-baeb-39f46a3200d5",
+"status": "refunded",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "bountybook",
+"id": "b7707297-8454-4415-982d-7e2951ad467b",
+"status": "refunded",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "bountybook",
+"id": "8a7bd232-7eb0-41ae-86bf-80a86829afed",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "bountybook",
+"id": "3c452142-54a6-4041-b622-bdda2da80a06",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "bountybook",
+"id": "80db56e3-6bdd-48cf-a7d8-7888c3d35e8c",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "bountybook",
+"id": "b0f67310-fb52-420c-8a37-9a4be05feb07",
+"status": "refunded",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "bountybook",
+"id": "734626a0-26b5-478b-b9cf-fb575aea8adc",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "bountybook",
+"id": "a0af3d48-327a-4923-b7f3-2ab1cad96dfd",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "bountybook",
+"id": "740fd768-1dcb-410c-a7ad-c64ac8be50af",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "bountybook",
+"id": "60379d18-2a1b-4d47-b732-0f16840680c0",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "bountybook",
+"id": "dc07cac3-ba35-4f13-965e-4fa8ace642a5",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "bountybook",
+"id": "0a1c6ae8-2034-4c3a-a13b-e7d6381aa5aa",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "bountybook",
+"id": "c2fd6d93-91e4-4078-a355-225da2699c0c",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "bountybook",
+"id": "7ef434e0-e870-4aa0-90f9-33db59262ccd",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "bountybook",
+"id": "dd327224-ddc5-4c8c-825f-e0ef2b266799",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "bountybook",
+"id": "87b131ee-7102-4d69-a99d-08cff67e9c1a",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "bountybook",
+"id": "def03885-5007-44a5-be0b-133d08c131df",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "bountybook",
+"id": "f940acbb-eb53-4b16-b4dd-1e43e30dea37",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "bountybook",
+"id": "733d4731-7e60-4bb8-9233-ba3771c779d3",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:00Z",
+"venue": "bountybook",
+"id": "6b626f9c-2b70-40a1-8879-49fad43adb46",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "taskmarket",
+"id": "0x825e69bbec84620a2dea42cad196e97fbd65f52284b909d877eaca3edb5e68b0",
+"status": "open",
+"payout_raw": "50000",
+"payout_usdc": "50000"
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "taskmarket",
+"id": "0x825e69bbec84620a2dea42cad196e97fbd65f52284b909d877eaca3edb5e68b0",
+"status": "open",
+"payout_raw": "50000",
+"payout_usdc": "50000"
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "taskmarket",
+"id": "0xb4e0e2150a5b69a781769fe71f9092de3cffe978a03fd7286ebd408b99b152e3",
+"status": "open",
+"payout_raw": "64000000",
+"payout_usdc": "64000000"
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "taskmarket",
+"id": "0x9e5a614a80fa0d0b802c21101cedb05ab06a0412edf7c4b874613f8c19f7d68c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "taskmarket",
+"id": "0x3b46e090a2d405875bfeb9ffbfec864807db9a4ab3907acf7af516591cdb0a24",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "taskmarket",
+"id": "0x5e7facd1016471ff54f86afd73076ac100c03fbdb1b0698a50e8cb3336f8587c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "taskmarket",
+"id": "0xf5eada2fc3454e27801d3bcf7124c3107798e31d31e1325df100ab8b1fd055b8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "taskmarket",
+"id": "0x7faf4ce6e3af53a7eb2c4c8748f0629573b1b17f42fdb5b7cb0865cc03ff19a4",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "taskmarket",
+"id": "0x280b68b52a1cb6dc918f5485316c71071589fefe5373aa2332f128d8876a9591",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "taskmarket",
+"id": "0x7faf4ce6e3af53a7eb2c4c8748f0629573b1b17f42fdb5b7cb0865cc03ff19a4",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "taskmarket",
+"id": "0xf5eada2fc3454e27801d3bcf7124c3107798e31d31e1325df100ab8b1fd055b8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "taskmarket",
+"id": "0x9e5a614a80fa0d0b802c21101cedb05ab06a0412edf7c4b874613f8c19f7d68c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "taskmarket",
+"id": "0x6b0d5bcabb9285de95a41575f3fed11b2fb76700dc036926272fd0ad89a8dbc8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "taskmarket",
+"id": "0xe9fbe36186f97c47cbcf5de6e81f1708a31ff4a4613b198a0cd38f5396703374",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "taskmarket",
+"id": "0x738a4821df265684172f7faf48e1f374ebdd737acfce79bba3c55fa5d6a1290a",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "taskmarket",
+"id": "0x664bc58934ca51fc34386bf58a5b1f0e6d4172e06c7df032d1c84b1d6960766c",
+"status": "open",
+"payout_raw": "20000000",
+"payout_usdc": "20000000"
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "bountybook",
+"id": "aea6ab2e-5c0e-4158-baeb-39f46a3200d5",
+"status": "refunded",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "bountybook",
+"id": "b7707297-8454-4415-982d-7e2951ad467b",
+"status": "refunded",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "bountybook",
+"id": "8a7bd232-7eb0-41ae-86bf-80a86829afed",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "bountybook",
+"id": "3c452142-54a6-4041-b622-bdda2da80a06",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "bountybook",
+"id": "80db56e3-6bdd-48cf-a7d8-7888c3d35e8c",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "bountybook",
+"id": "b0f67310-fb52-420c-8a37-9a4be05feb07",
+"status": "refunded",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "bountybook",
+"id": "734626a0-26b5-478b-b9cf-fb575aea8adc",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "bountybook",
+"id": "a0af3d48-327a-4923-b7f3-2ab1cad96dfd",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "bountybook",
+"id": "740fd768-1dcb-410c-a7ad-c64ac8be50af",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "bountybook",
+"id": "60379d18-2a1b-4d47-b732-0f16840680c0",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "bountybook",
+"id": "dc07cac3-ba35-4f13-965e-4fa8ace642a5",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "bountybook",
+"id": "0a1c6ae8-2034-4c3a-a13b-e7d6381aa5aa",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "bountybook",
+"id": "c2fd6d93-91e4-4078-a355-225da2699c0c",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "bountybook",
+"id": "7ef434e0-e870-4aa0-90f9-33db59262ccd",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "bountybook",
+"id": "dd327224-ddc5-4c8c-825f-e0ef2b266799",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "bountybook",
+"id": "87b131ee-7102-4d69-a99d-08cff67e9c1a",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "bountybook",
+"id": "def03885-5007-44a5-be0b-133d08c131df",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "bountybook",
+"id": "f940acbb-eb53-4b16-b4dd-1e43e30dea37",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "bountybook",
+"id": "733d4731-7e60-4bb8-9233-ba3771c779d3",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-18T15:01:54Z",
+"venue": "bountybook",
+"id": "6b626f9c-2b70-40a1-8879-49fad43adb46",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "taskmarket",
+"id": "0x825e69bbec84620a2dea42cad196e97fbd65f52284b909d877eaca3edb5e68b0",
+"status": "completed",
+"payout_raw": "50000",
+"payout_usdc": "50000"
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "taskmarket",
+"id": "0x825e69bbec84620a2dea42cad196e97fbd65f52284b909d877eaca3edb5e68b0",
+"status": "completed",
+"payout_raw": "50000",
+"payout_usdc": "50000"
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "taskmarket",
+"id": "0xb4e0e2150a5b69a781769fe71f9092de3cffe978a03fd7286ebd408b99b152e3",
+"status": "open",
+"payout_raw": "64000000",
+"payout_usdc": "64000000"
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "taskmarket",
+"id": "0x9e5a614a80fa0d0b802c21101cedb05ab06a0412edf7c4b874613f8c19f7d68c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "taskmarket",
+"id": "0x3b46e090a2d405875bfeb9ffbfec864807db9a4ab3907acf7af516591cdb0a24",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "taskmarket",
+"id": "0x5e7facd1016471ff54f86afd73076ac100c03fbdb1b0698a50e8cb3336f8587c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "taskmarket",
+"id": "0xf5eada2fc3454e27801d3bcf7124c3107798e31d31e1325df100ab8b1fd055b8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "taskmarket",
+"id": "0x7faf4ce6e3af53a7eb2c4c8748f0629573b1b17f42fdb5b7cb0865cc03ff19a4",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "taskmarket",
+"id": "0x280b68b52a1cb6dc918f5485316c71071589fefe5373aa2332f128d8876a9591",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "taskmarket",
+"id": "0x7faf4ce6e3af53a7eb2c4c8748f0629573b1b17f42fdb5b7cb0865cc03ff19a4",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "taskmarket",
+"id": "0xf5eada2fc3454e27801d3bcf7124c3107798e31d31e1325df100ab8b1fd055b8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "taskmarket",
+"id": "0x9e5a614a80fa0d0b802c21101cedb05ab06a0412edf7c4b874613f8c19f7d68c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "taskmarket",
+"id": "0x6b0d5bcabb9285de95a41575f3fed11b2fb76700dc036926272fd0ad89a8dbc8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "taskmarket",
+"id": "0xe9fbe36186f97c47cbcf5de6e81f1708a31ff4a4613b198a0cd38f5396703374",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "taskmarket",
+"id": "0x738a4821df265684172f7faf48e1f374ebdd737acfce79bba3c55fa5d6a1290a",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "taskmarket",
+"id": "0x664bc58934ca51fc34386bf58a5b1f0e6d4172e06c7df032d1c84b1d6960766c",
+"status": "open",
+"payout_raw": "20000000",
+"payout_usdc": "20000000"
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "bountybook",
+"id": "aea6ab2e-5c0e-4158-baeb-39f46a3200d5",
+"status": "refunded",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "bountybook",
+"id": "b7707297-8454-4415-982d-7e2951ad467b",
+"status": "refunded",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "bountybook",
+"id": "8a7bd232-7eb0-41ae-86bf-80a86829afed",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "bountybook",
+"id": "3c452142-54a6-4041-b622-bdda2da80a06",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "bountybook",
+"id": "80db56e3-6bdd-48cf-a7d8-7888c3d35e8c",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "bountybook",
+"id": "b0f67310-fb52-420c-8a37-9a4be05feb07",
+"status": "refunded",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "bountybook",
+"id": "734626a0-26b5-478b-b9cf-fb575aea8adc",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "bountybook",
+"id": "a0af3d48-327a-4923-b7f3-2ab1cad96dfd",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "bountybook",
+"id": "740fd768-1dcb-410c-a7ad-c64ac8be50af",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "bountybook",
+"id": "60379d18-2a1b-4d47-b732-0f16840680c0",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "bountybook",
+"id": "dc07cac3-ba35-4f13-965e-4fa8ace642a5",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "bountybook",
+"id": "0a1c6ae8-2034-4c3a-a13b-e7d6381aa5aa",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "bountybook",
+"id": "c2fd6d93-91e4-4078-a355-225da2699c0c",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "bountybook",
+"id": "7ef434e0-e870-4aa0-90f9-33db59262ccd",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "bountybook",
+"id": "dd327224-ddc5-4c8c-825f-e0ef2b266799",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "bountybook",
+"id": "87b131ee-7102-4d69-a99d-08cff67e9c1a",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "bountybook",
+"id": "def03885-5007-44a5-be0b-133d08c131df",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "bountybook",
+"id": "f940acbb-eb53-4b16-b4dd-1e43e30dea37",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "bountybook",
+"id": "733d4731-7e60-4bb8-9233-ba3771c779d3",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-19T02:01:55Z",
+"venue": "bountybook",
+"id": "6b626f9c-2b70-40a1-8879-49fad43adb46",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-19T04:20:00Z",
+"venue": "taskmarket",
+"id": "0xfa5a4bd429efbbf95a63bec12827c96845558552f025245eae203dddc896fb5e",
+"status": "submitted",
+"payout_raw": "2000000",
+"payout_usdc": "2000000"
+},
+{
+"ts": "2026-08-19T06:22:49Z",
+"venue": "taskmarket",
+"id": "0xb4ec910bb0ce80e05b1465a20f7bc9613d5a9f6ac38571a454ec85013d016798",
+"status": "submitted",
+"payout_raw": "2000000",
+"payout_usdc": "2000000"
+},
+{
+"ts": "2026-08-19T11:30:45Z",
+"venue": "agenthansa",
+"id": "a6057bde-f261-4adf-829b-5752b90ac34c",
+"status": "blocked",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-19T14:22:30Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "submitted",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-19T15:30:34Z",
+"venue": "agenthansa",
+"id": "a6057bde-f261-4adf-829b-5752b90ac34c",
+"status": "blocked",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-19T16:09:50Z",
+"venue": "taskmarket",
+"id": "0x6b0d5bcabb9285de95a41575f3fed11b2fb76700dc036926272fd0ad89a8dbc8",
+"status": "submitted",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-19T17:55:00Z",
+"venue": "agenthansa",
+"id": "a6057bde-f261-4adf-829b-5752b90ac34c",
+"status": "dead",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-19T17:56:00Z",
+"venue": "taskmarket",
+"id": "0x825e69bbec84620a2dea42cad196e97fbd65f52284b909d877eaca3edb5e68b0",
+"status": "paid",
+"payout_raw": "0.05 gross / 0.0154 net USDC credited",
+"payout_usdc": "0.05 gross / 0.0154 net USDC credited"
+},
+{
+"ts": "2026-08-19T18:25:00Z",
+"venue": "x402-list",
+"id": "95006d8b",
+"status": "pending",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-19T20:21:00Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "submitted",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-19T20:21:30Z",
+"venue": "taskmarket",
+"id": "0x738a4821df265684172f7faf48e1f374ebdd737acfce79bba3c55fa5d6a1290a",
+"status": "submitted",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0x738a4821df265684172f7faf48e1f374ebdd737acfce79bba3c55fa5d6a1290a",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0x6b0d5bcabb9285de95a41575f3fed11b2fb76700dc036926272fd0ad89a8dbc8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0x6b0d5bcabb9285de95a41575f3fed11b2fb76700dc036926272fd0ad89a8dbc8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0xb4ec910bb0ce80e05b1465a20f7bc9613d5a9f6ac38571a454ec85013d016798",
+"status": "completed",
+"payout_raw": "2000000",
+"payout_usdc": "2000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0xfa5a4bd429efbbf95a63bec12827c96845558552f025245eae203dddc896fb5e",
+"status": "completed",
+"payout_raw": "2000000",
+"payout_usdc": "2000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0x26222869929f83c6af08dc5698d77f3c17d6a9ed6489b865807a062034f6ab8f",
+"status": "completed",
+"payout_raw": "2000000",
+"payout_usdc": "2000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0x7535dd1ab2d64619187c9a784c3faafc57d2c1fe2dabd5002fc700ce4c74cc56",
+"status": "completed",
+"payout_raw": "1000000",
+"payout_usdc": "1000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0x825e69bbec84620a2dea42cad196e97fbd65f52284b909d877eaca3edb5e68b0",
+"status": "completed",
+"payout_raw": "50000",
+"payout_usdc": "50000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0x825e69bbec84620a2dea42cad196e97fbd65f52284b909d877eaca3edb5e68b0",
+"status": "completed",
+"payout_raw": "50000",
+"payout_usdc": "50000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0xb4e0e2150a5b69a781769fe71f9092de3cffe978a03fd7286ebd408b99b152e3",
+"status": "open",
+"payout_raw": "64000000",
+"payout_usdc": "64000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0x9e5a614a80fa0d0b802c21101cedb05ab06a0412edf7c4b874613f8c19f7d68c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0x3b46e090a2d405875bfeb9ffbfec864807db9a4ab3907acf7af516591cdb0a24",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0x5e7facd1016471ff54f86afd73076ac100c03fbdb1b0698a50e8cb3336f8587c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0xf5eada2fc3454e27801d3bcf7124c3107798e31d31e1325df100ab8b1fd055b8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0x7faf4ce6e3af53a7eb2c4c8748f0629573b1b17f42fdb5b7cb0865cc03ff19a4",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0x280b68b52a1cb6dc918f5485316c71071589fefe5373aa2332f128d8876a9591",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0x7faf4ce6e3af53a7eb2c4c8748f0629573b1b17f42fdb5b7cb0865cc03ff19a4",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0xf5eada2fc3454e27801d3bcf7124c3107798e31d31e1325df100ab8b1fd055b8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0x9e5a614a80fa0d0b802c21101cedb05ab06a0412edf7c4b874613f8c19f7d68c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0x6b0d5bcabb9285de95a41575f3fed11b2fb76700dc036926272fd0ad89a8dbc8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0xe9fbe36186f97c47cbcf5de6e81f1708a31ff4a4613b198a0cd38f5396703374",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0x738a4821df265684172f7faf48e1f374ebdd737acfce79bba3c55fa5d6a1290a",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0x7535dd1ab2d64619187c9a784c3faafc57d2c1fe2dabd5002fc700ce4c74cc56",
+"status": "completed",
+"payout_raw": "1000000",
+"payout_usdc": "1000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0x664bc58934ca51fc34386bf58a5b1f0e6d4172e06c7df032d1c84b1d6960766c",
+"status": "open",
+"payout_raw": "20000000",
+"payout_usdc": "20000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "bountybook",
+"id": "aea6ab2e-5c0e-4158-baeb-39f46a3200d5",
+"status": "refunded",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "bountybook",
+"id": "b7707297-8454-4415-982d-7e2951ad467b",
+"status": "refunded",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "bountybook",
+"id": "8a7bd232-7eb0-41ae-86bf-80a86829afed",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "bountybook",
+"id": "3c452142-54a6-4041-b622-bdda2da80a06",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "bountybook",
+"id": "80db56e3-6bdd-48cf-a7d8-7888c3d35e8c",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "bountybook",
+"id": "b0f67310-fb52-420c-8a37-9a4be05feb07",
+"status": "refunded",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "bountybook",
+"id": "734626a0-26b5-478b-b9cf-fb575aea8adc",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "bountybook",
+"id": "a0af3d48-327a-4923-b7f3-2ab1cad96dfd",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "bountybook",
+"id": "740fd768-1dcb-410c-a7ad-c64ac8be50af",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "bountybook",
+"id": "60379d18-2a1b-4d47-b732-0f16840680c0",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "bountybook",
+"id": "dc07cac3-ba35-4f13-965e-4fa8ace642a5",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "bountybook",
+"id": "0a1c6ae8-2034-4c3a-a13b-e7d6381aa5aa",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "bountybook",
+"id": "c2fd6d93-91e4-4078-a355-225da2699c0c",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "bountybook",
+"id": "7ef434e0-e870-4aa0-90f9-33db59262ccd",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "bountybook",
+"id": "dd327224-ddc5-4c8c-825f-e0ef2b266799",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "bountybook",
+"id": "87b131ee-7102-4d69-a99d-08cff67e9c1a",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "bountybook",
+"id": "def03885-5007-44a5-be0b-133d08c131df",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "bountybook",
+"id": "f940acbb-eb53-4b16-b4dd-1e43e30dea37",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "bountybook",
+"id": "733d4731-7e60-4bb8-9233-ba3771c779d3",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T08:01:32Z",
+"venue": "bountybook",
+"id": "6b626f9c-2b70-40a1-8879-49fad43adb46",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T08:12:00Z",
+"venue": "taskmarket",
+"id": "0xb4ec910b,0xfa5a4bd4,0x26222869,0x7535dd1a",
+"status": "lost",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0x738a4821df265684172f7faf48e1f374ebdd737acfce79bba3c55fa5d6a1290a",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0x6b0d5bcabb9285de95a41575f3fed11b2fb76700dc036926272fd0ad89a8dbc8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0x6b0d5bcabb9285de95a41575f3fed11b2fb76700dc036926272fd0ad89a8dbc8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0xb4ec910bb0ce80e05b1465a20f7bc9613d5a9f6ac38571a454ec85013d016798",
+"status": "completed",
+"payout_raw": "2000000",
+"payout_usdc": "2000000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0xfa5a4bd429efbbf95a63bec12827c96845558552f025245eae203dddc896fb5e",
+"status": "completed",
+"payout_raw": "2000000",
+"payout_usdc": "2000000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0x26222869929f83c6af08dc5698d77f3c17d6a9ed6489b865807a062034f6ab8f",
+"status": "completed",
+"payout_raw": "2000000",
+"payout_usdc": "2000000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0x7535dd1ab2d64619187c9a784c3faafc57d2c1fe2dabd5002fc700ce4c74cc56",
+"status": "completed",
+"payout_raw": "1000000",
+"payout_usdc": "1000000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0x825e69bbec84620a2dea42cad196e97fbd65f52284b909d877eaca3edb5e68b0",
+"status": "completed",
+"payout_raw": "50000",
+"payout_usdc": "50000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0x825e69bbec84620a2dea42cad196e97fbd65f52284b909d877eaca3edb5e68b0",
+"status": "completed",
+"payout_raw": "50000",
+"payout_usdc": "50000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0xb4e0e2150a5b69a781769fe71f9092de3cffe978a03fd7286ebd408b99b152e3",
+"status": "open",
+"payout_raw": "64000000",
+"payout_usdc": "64000000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0x9e5a614a80fa0d0b802c21101cedb05ab06a0412edf7c4b874613f8c19f7d68c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0x3b46e090a2d405875bfeb9ffbfec864807db9a4ab3907acf7af516591cdb0a24",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0x5e7facd1016471ff54f86afd73076ac100c03fbdb1b0698a50e8cb3336f8587c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0xf5eada2fc3454e27801d3bcf7124c3107798e31d31e1325df100ab8b1fd055b8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0x7faf4ce6e3af53a7eb2c4c8748f0629573b1b17f42fdb5b7cb0865cc03ff19a4",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0x280b68b52a1cb6dc918f5485316c71071589fefe5373aa2332f128d8876a9591",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0x7faf4ce6e3af53a7eb2c4c8748f0629573b1b17f42fdb5b7cb0865cc03ff19a4",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0xf5eada2fc3454e27801d3bcf7124c3107798e31d31e1325df100ab8b1fd055b8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0x9e5a614a80fa0d0b802c21101cedb05ab06a0412edf7c4b874613f8c19f7d68c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0x6b0d5bcabb9285de95a41575f3fed11b2fb76700dc036926272fd0ad89a8dbc8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0xe9fbe36186f97c47cbcf5de6e81f1708a31ff4a4613b198a0cd38f5396703374",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0x738a4821df265684172f7faf48e1f374ebdd737acfce79bba3c55fa5d6a1290a",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0x7535dd1ab2d64619187c9a784c3faafc57d2c1fe2dabd5002fc700ce4c74cc56",
+"status": "completed",
+"payout_raw": "1000000",
+"payout_usdc": "1000000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0x664bc58934ca51fc34386bf58a5b1f0e6d4172e06c7df032d1c84b1d6960766c",
+"status": "open",
+"payout_raw": "20000000",
+"payout_usdc": "20000000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "bountybook",
+"id": "aea6ab2e-5c0e-4158-baeb-39f46a3200d5",
+"status": "refunded",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "bountybook",
+"id": "b7707297-8454-4415-982d-7e2951ad467b",
+"status": "refunded",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "bountybook",
+"id": "8a7bd232-7eb0-41ae-86bf-80a86829afed",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "bountybook",
+"id": "3c452142-54a6-4041-b622-bdda2da80a06",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "bountybook",
+"id": "80db56e3-6bdd-48cf-a7d8-7888c3d35e8c",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "bountybook",
+"id": "b0f67310-fb52-420c-8a37-9a4be05feb07",
+"status": "refunded",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "bountybook",
+"id": "734626a0-26b5-478b-b9cf-fb575aea8adc",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "bountybook",
+"id": "a0af3d48-327a-4923-b7f3-2ab1cad96dfd",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "bountybook",
+"id": "740fd768-1dcb-410c-a7ad-c64ac8be50af",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "bountybook",
+"id": "60379d18-2a1b-4d47-b732-0f16840680c0",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "bountybook",
+"id": "dc07cac3-ba35-4f13-965e-4fa8ace642a5",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "bountybook",
+"id": "0a1c6ae8-2034-4c3a-a13b-e7d6381aa5aa",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "bountybook",
+"id": "c2fd6d93-91e4-4078-a355-225da2699c0c",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "bountybook",
+"id": "7ef434e0-e870-4aa0-90f9-33db59262ccd",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "bountybook",
+"id": "dd327224-ddc5-4c8c-825f-e0ef2b266799",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "bountybook",
+"id": "87b131ee-7102-4d69-a99d-08cff67e9c1a",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "bountybook",
+"id": "def03885-5007-44a5-be0b-133d08c131df",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "bountybook",
+"id": "f940acbb-eb53-4b16-b4dd-1e43e30dea37",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "bountybook",
+"id": "733d4731-7e60-4bb8-9233-ba3771c779d3",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-20T13:46:10Z",
+"venue": "bountybook",
+"id": "6b626f9c-2b70-40a1-8879-49fad43adb46",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0x738a4821df265684172f7faf48e1f374ebdd737acfce79bba3c55fa5d6a1290a",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0x6b0d5bcabb9285de95a41575f3fed11b2fb76700dc036926272fd0ad89a8dbc8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0x6b0d5bcabb9285de95a41575f3fed11b2fb76700dc036926272fd0ad89a8dbc8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0xb4ec910bb0ce80e05b1465a20f7bc9613d5a9f6ac38571a454ec85013d016798",
+"status": "completed",
+"payout_raw": "2000000",
+"payout_usdc": "2000000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0xfa5a4bd429efbbf95a63bec12827c96845558552f025245eae203dddc896fb5e",
+"status": "completed",
+"payout_raw": "2000000",
+"payout_usdc": "2000000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0x26222869929f83c6af08dc5698d77f3c17d6a9ed6489b865807a062034f6ab8f",
+"status": "completed",
+"payout_raw": "2000000",
+"payout_usdc": "2000000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0x7535dd1ab2d64619187c9a784c3faafc57d2c1fe2dabd5002fc700ce4c74cc56",
+"status": "completed",
+"payout_raw": "1000000",
+"payout_usdc": "1000000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0x825e69bbec84620a2dea42cad196e97fbd65f52284b909d877eaca3edb5e68b0",
+"status": "completed",
+"payout_raw": "50000",
+"payout_usdc": "50000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0x825e69bbec84620a2dea42cad196e97fbd65f52284b909d877eaca3edb5e68b0",
+"status": "completed",
+"payout_raw": "50000",
+"payout_usdc": "50000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0xb4e0e2150a5b69a781769fe71f9092de3cffe978a03fd7286ebd408b99b152e3",
+"status": "open",
+"payout_raw": "64000000",
+"payout_usdc": "64000000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0x9e5a614a80fa0d0b802c21101cedb05ab06a0412edf7c4b874613f8c19f7d68c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0x3b46e090a2d405875bfeb9ffbfec864807db9a4ab3907acf7af516591cdb0a24",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0x5e7facd1016471ff54f86afd73076ac100c03fbdb1b0698a50e8cb3336f8587c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0xf5eada2fc3454e27801d3bcf7124c3107798e31d31e1325df100ab8b1fd055b8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0x7faf4ce6e3af53a7eb2c4c8748f0629573b1b17f42fdb5b7cb0865cc03ff19a4",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0x280b68b52a1cb6dc918f5485316c71071589fefe5373aa2332f128d8876a9591",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0x7faf4ce6e3af53a7eb2c4c8748f0629573b1b17f42fdb5b7cb0865cc03ff19a4",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0xf5eada2fc3454e27801d3bcf7124c3107798e31d31e1325df100ab8b1fd055b8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0x9e5a614a80fa0d0b802c21101cedb05ab06a0412edf7c4b874613f8c19f7d68c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0x6b0d5bcabb9285de95a41575f3fed11b2fb76700dc036926272fd0ad89a8dbc8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0xe9fbe36186f97c47cbcf5de6e81f1708a31ff4a4613b198a0cd38f5396703374",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0x738a4821df265684172f7faf48e1f374ebdd737acfce79bba3c55fa5d6a1290a",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0x7535dd1ab2d64619187c9a784c3faafc57d2c1fe2dabd5002fc700ce4c74cc56",
+"status": "completed",
+"payout_raw": "1000000",
+"payout_usdc": "1000000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0x664bc58934ca51fc34386bf58a5b1f0e6d4172e06c7df032d1c84b1d6960766c",
+"status": "open",
+"payout_raw": "20000000",
+"payout_usdc": "20000000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "bountybook",
+"id": "969317da-1a1d-418a-ae28-4306f1d85876",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "bountybook",
+"id": "de1013ee-81df-43c4-ae82-f2edbace5cd2",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "bountybook",
+"id": "73ec3d78-d553-4379-86a6-4e4d0b090b52",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "bountybook",
+"id": "3ad4ae96-15f6-41bd-91fa-bd49de24c76a",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "bountybook",
+"id": "df0c7e67-b0e3-4774-99b2-c492e448a721",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "bountybook",
+"id": "8381cded-42c8-46a5-a8c0-8cac45ccb521",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "bountybook",
+"id": "9f3c72e4-e133-4c17-9f4e-cae554edc310",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "bountybook",
+"id": "b3ca5c5a-2b2b-4b34-8771-5d2d4139a91c",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "bountybook",
+"id": "1c5a7bd3-73d4-4be2-84d7-303caaa25276",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "bountybook",
+"id": "ec3c2bf8-48d4-42a5-abdd-cd19b6460726",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "bountybook",
+"id": "f249a2bc-eb83-4aa5-8e3e-85f10612e4c7",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "bountybook",
+"id": "ca8ced79-1bbf-4474-a525-1ad374fd417e",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "bountybook",
+"id": "bbb683cd-eddc-4cf3-9155-0ead23e891ab",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "bountybook",
+"id": "9a476f99-c899-4922-82db-b17e19387073",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "bountybook",
+"id": "1174cfc8-a409-47e1-afef-046aaf223d8c",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "bountybook",
+"id": "2df4beb9-503b-47d3-aba5-b47b129801cb",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "bountybook",
+"id": "065831f3-678f-4b1f-824b-8847193823ef",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "bountybook",
+"id": "6c6bfaae-2db2-4fac-b2fb-04351a650599",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "bountybook",
+"id": "7c84ff24-fce7-457c-b950-6d14ce64bc17",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T12:03:45Z",
+"venue": "bountybook",
+"id": "da0be06b-a4ce-42df-9dd7-5ce8e0d00715",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T12:40:00Z",
+"venue": "taskmarket",
+"id": "0xace815c521a866aee6b474ed379160e73a933552b01c990b36b8937b88f3295a",
+"status": "in-progress",
+"payout_raw": "100000000",
+"payout_usdc": "100000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0x738a4821df265684172f7faf48e1f374ebdd737acfce79bba3c55fa5d6a1290a",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0x6b0d5bcabb9285de95a41575f3fed11b2fb76700dc036926272fd0ad89a8dbc8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0x6b0d5bcabb9285de95a41575f3fed11b2fb76700dc036926272fd0ad89a8dbc8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0xb4ec910bb0ce80e05b1465a20f7bc9613d5a9f6ac38571a454ec85013d016798",
+"status": "completed",
+"payout_raw": "2000000",
+"payout_usdc": "2000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0xfa5a4bd429efbbf95a63bec12827c96845558552f025245eae203dddc896fb5e",
+"status": "completed",
+"payout_raw": "2000000",
+"payout_usdc": "2000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0x26222869929f83c6af08dc5698d77f3c17d6a9ed6489b865807a062034f6ab8f",
+"status": "completed",
+"payout_raw": "2000000",
+"payout_usdc": "2000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0x7535dd1ab2d64619187c9a784c3faafc57d2c1fe2dabd5002fc700ce4c74cc56",
+"status": "completed",
+"payout_raw": "1000000",
+"payout_usdc": "1000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0x825e69bbec84620a2dea42cad196e97fbd65f52284b909d877eaca3edb5e68b0",
+"status": "completed",
+"payout_raw": "50000",
+"payout_usdc": "50000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0x825e69bbec84620a2dea42cad196e97fbd65f52284b909d877eaca3edb5e68b0",
+"status": "completed",
+"payout_raw": "50000",
+"payout_usdc": "50000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0xb4e0e2150a5b69a781769fe71f9092de3cffe978a03fd7286ebd408b99b152e3",
+"status": "open",
+"payout_raw": "64000000",
+"payout_usdc": "64000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0x9e5a614a80fa0d0b802c21101cedb05ab06a0412edf7c4b874613f8c19f7d68c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0x3b46e090a2d405875bfeb9ffbfec864807db9a4ab3907acf7af516591cdb0a24",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0x5e7facd1016471ff54f86afd73076ac100c03fbdb1b0698a50e8cb3336f8587c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0xf5eada2fc3454e27801d3bcf7124c3107798e31d31e1325df100ab8b1fd055b8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0x7faf4ce6e3af53a7eb2c4c8748f0629573b1b17f42fdb5b7cb0865cc03ff19a4",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0x280b68b52a1cb6dc918f5485316c71071589fefe5373aa2332f128d8876a9591",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0x7faf4ce6e3af53a7eb2c4c8748f0629573b1b17f42fdb5b7cb0865cc03ff19a4",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0xf5eada2fc3454e27801d3bcf7124c3107798e31d31e1325df100ab8b1fd055b8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0x9e5a614a80fa0d0b802c21101cedb05ab06a0412edf7c4b874613f8c19f7d68c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0x6b0d5bcabb9285de95a41575f3fed11b2fb76700dc036926272fd0ad89a8dbc8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0xe9fbe36186f97c47cbcf5de6e81f1708a31ff4a4613b198a0cd38f5396703374",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0x738a4821df265684172f7faf48e1f374ebdd737acfce79bba3c55fa5d6a1290a",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0x7535dd1ab2d64619187c9a784c3faafc57d2c1fe2dabd5002fc700ce4c74cc56",
+"status": "completed",
+"payout_raw": "1000000",
+"payout_usdc": "1000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0x664bc58934ca51fc34386bf58a5b1f0e6d4172e06c7df032d1c84b1d6960766c",
+"status": "open",
+"payout_raw": "20000000",
+"payout_usdc": "20000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "bountybook",
+"id": "969317da-1a1d-418a-ae28-4306f1d85876",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "bountybook",
+"id": "de1013ee-81df-43c4-ae82-f2edbace5cd2",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "bountybook",
+"id": "73ec3d78-d553-4379-86a6-4e4d0b090b52",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "bountybook",
+"id": "3ad4ae96-15f6-41bd-91fa-bd49de24c76a",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "bountybook",
+"id": "df0c7e67-b0e3-4774-99b2-c492e448a721",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "bountybook",
+"id": "8381cded-42c8-46a5-a8c0-8cac45ccb521",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "bountybook",
+"id": "9f3c72e4-e133-4c17-9f4e-cae554edc310",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "bountybook",
+"id": "b3ca5c5a-2b2b-4b34-8771-5d2d4139a91c",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "bountybook",
+"id": "1c5a7bd3-73d4-4be2-84d7-303caaa25276",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "bountybook",
+"id": "ec3c2bf8-48d4-42a5-abdd-cd19b6460726",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "bountybook",
+"id": "f249a2bc-eb83-4aa5-8e3e-85f10612e4c7",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "bountybook",
+"id": "ca8ced79-1bbf-4474-a525-1ad374fd417e",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "bountybook",
+"id": "bbb683cd-eddc-4cf3-9155-0ead23e891ab",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "bountybook",
+"id": "9a476f99-c899-4922-82db-b17e19387073",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "bountybook",
+"id": "1174cfc8-a409-47e1-afef-046aaf223d8c",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "bountybook",
+"id": "2df4beb9-503b-47d3-aba5-b47b129801cb",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "bountybook",
+"id": "065831f3-678f-4b1f-824b-8847193823ef",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "bountybook",
+"id": "6c6bfaae-2db2-4fac-b2fb-04351a650599",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "bountybook",
+"id": "7c84ff24-fce7-457c-b950-6d14ce64bc17",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T14:03:18Z",
+"venue": "bountybook",
+"id": "da0be06b-a4ce-42df-9dd7-5ce8e0d00715",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0x738a4821df265684172f7faf48e1f374ebdd737acfce79bba3c55fa5d6a1290a",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0x6b0d5bcabb9285de95a41575f3fed11b2fb76700dc036926272fd0ad89a8dbc8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0x6b0d5bcabb9285de95a41575f3fed11b2fb76700dc036926272fd0ad89a8dbc8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0xb4ec910bb0ce80e05b1465a20f7bc9613d5a9f6ac38571a454ec85013d016798",
+"status": "completed",
+"payout_raw": "2000000",
+"payout_usdc": "2000000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0xfa5a4bd429efbbf95a63bec12827c96845558552f025245eae203dddc896fb5e",
+"status": "completed",
+"payout_raw": "2000000",
+"payout_usdc": "2000000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0x26222869929f83c6af08dc5698d77f3c17d6a9ed6489b865807a062034f6ab8f",
+"status": "completed",
+"payout_raw": "2000000",
+"payout_usdc": "2000000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0x7535dd1ab2d64619187c9a784c3faafc57d2c1fe2dabd5002fc700ce4c74cc56",
+"status": "completed",
+"payout_raw": "1000000",
+"payout_usdc": "1000000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0x825e69bbec84620a2dea42cad196e97fbd65f52284b909d877eaca3edb5e68b0",
+"status": "completed",
+"payout_raw": "50000",
+"payout_usdc": "50000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0x825e69bbec84620a2dea42cad196e97fbd65f52284b909d877eaca3edb5e68b0",
+"status": "completed",
+"payout_raw": "50000",
+"payout_usdc": "50000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0xb4e0e2150a5b69a781769fe71f9092de3cffe978a03fd7286ebd408b99b152e3",
+"status": "open",
+"payout_raw": "64000000",
+"payout_usdc": "64000000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0x9e5a614a80fa0d0b802c21101cedb05ab06a0412edf7c4b874613f8c19f7d68c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0x3b46e090a2d405875bfeb9ffbfec864807db9a4ab3907acf7af516591cdb0a24",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0x5e7facd1016471ff54f86afd73076ac100c03fbdb1b0698a50e8cb3336f8587c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0xf5eada2fc3454e27801d3bcf7124c3107798e31d31e1325df100ab8b1fd055b8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0x7faf4ce6e3af53a7eb2c4c8748f0629573b1b17f42fdb5b7cb0865cc03ff19a4",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0x280b68b52a1cb6dc918f5485316c71071589fefe5373aa2332f128d8876a9591",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0x7faf4ce6e3af53a7eb2c4c8748f0629573b1b17f42fdb5b7cb0865cc03ff19a4",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0xf5eada2fc3454e27801d3bcf7124c3107798e31d31e1325df100ab8b1fd055b8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0x9e5a614a80fa0d0b802c21101cedb05ab06a0412edf7c4b874613f8c19f7d68c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0x6b0d5bcabb9285de95a41575f3fed11b2fb76700dc036926272fd0ad89a8dbc8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0xe9fbe36186f97c47cbcf5de6e81f1708a31ff4a4613b198a0cd38f5396703374",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0x738a4821df265684172f7faf48e1f374ebdd737acfce79bba3c55fa5d6a1290a",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0x7535dd1ab2d64619187c9a784c3faafc57d2c1fe2dabd5002fc700ce4c74cc56",
+"status": "completed",
+"payout_raw": "1000000",
+"payout_usdc": "1000000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0x664bc58934ca51fc34386bf58a5b1f0e6d4172e06c7df032d1c84b1d6960766c",
+"status": "open",
+"payout_raw": "20000000",
+"payout_usdc": "20000000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "bountybook",
+"id": "969317da-1a1d-418a-ae28-4306f1d85876",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "bountybook",
+"id": "de1013ee-81df-43c4-ae82-f2edbace5cd2",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "bountybook",
+"id": "73ec3d78-d553-4379-86a6-4e4d0b090b52",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "bountybook",
+"id": "3ad4ae96-15f6-41bd-91fa-bd49de24c76a",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "bountybook",
+"id": "df0c7e67-b0e3-4774-99b2-c492e448a721",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "bountybook",
+"id": "8381cded-42c8-46a5-a8c0-8cac45ccb521",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "bountybook",
+"id": "9f3c72e4-e133-4c17-9f4e-cae554edc310",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "bountybook",
+"id": "b3ca5c5a-2b2b-4b34-8771-5d2d4139a91c",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "bountybook",
+"id": "1c5a7bd3-73d4-4be2-84d7-303caaa25276",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "bountybook",
+"id": "ec3c2bf8-48d4-42a5-abdd-cd19b6460726",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "bountybook",
+"id": "f249a2bc-eb83-4aa5-8e3e-85f10612e4c7",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "bountybook",
+"id": "ca8ced79-1bbf-4474-a525-1ad374fd417e",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "bountybook",
+"id": "bbb683cd-eddc-4cf3-9155-0ead23e891ab",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "bountybook",
+"id": "9a476f99-c899-4922-82db-b17e19387073",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "bountybook",
+"id": "1174cfc8-a409-47e1-afef-046aaf223d8c",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "bountybook",
+"id": "2df4beb9-503b-47d3-aba5-b47b129801cb",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "bountybook",
+"id": "065831f3-678f-4b1f-824b-8847193823ef",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "bountybook",
+"id": "6c6bfaae-2db2-4fac-b2fb-04351a650599",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "bountybook",
+"id": "7c84ff24-fce7-457c-b950-6d14ce64bc17",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:44Z",
+"venue": "bountybook",
+"id": "da0be06b-a4ce-42df-9dd7-5ce8e0d00715",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0x738a4821df265684172f7faf48e1f374ebdd737acfce79bba3c55fa5d6a1290a",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0x6b0d5bcabb9285de95a41575f3fed11b2fb76700dc036926272fd0ad89a8dbc8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0x6b0d5bcabb9285de95a41575f3fed11b2fb76700dc036926272fd0ad89a8dbc8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0xb4ec910bb0ce80e05b1465a20f7bc9613d5a9f6ac38571a454ec85013d016798",
+"status": "completed",
+"payout_raw": "2000000",
+"payout_usdc": "2000000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0xfa5a4bd429efbbf95a63bec12827c96845558552f025245eae203dddc896fb5e",
+"status": "completed",
+"payout_raw": "2000000",
+"payout_usdc": "2000000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0x26222869929f83c6af08dc5698d77f3c17d6a9ed6489b865807a062034f6ab8f",
+"status": "completed",
+"payout_raw": "2000000",
+"payout_usdc": "2000000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0x7535dd1ab2d64619187c9a784c3faafc57d2c1fe2dabd5002fc700ce4c74cc56",
+"status": "completed",
+"payout_raw": "1000000",
+"payout_usdc": "1000000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0x825e69bbec84620a2dea42cad196e97fbd65f52284b909d877eaca3edb5e68b0",
+"status": "completed",
+"payout_raw": "50000",
+"payout_usdc": "50000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0x825e69bbec84620a2dea42cad196e97fbd65f52284b909d877eaca3edb5e68b0",
+"status": "completed",
+"payout_raw": "50000",
+"payout_usdc": "50000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0xb4e0e2150a5b69a781769fe71f9092de3cffe978a03fd7286ebd408b99b152e3",
+"status": "open",
+"payout_raw": "64000000",
+"payout_usdc": "64000000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0x9e5a614a80fa0d0b802c21101cedb05ab06a0412edf7c4b874613f8c19f7d68c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0x3b46e090a2d405875bfeb9ffbfec864807db9a4ab3907acf7af516591cdb0a24",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0x5e7facd1016471ff54f86afd73076ac100c03fbdb1b0698a50e8cb3336f8587c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0xf5eada2fc3454e27801d3bcf7124c3107798e31d31e1325df100ab8b1fd055b8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0x7faf4ce6e3af53a7eb2c4c8748f0629573b1b17f42fdb5b7cb0865cc03ff19a4",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0x280b68b52a1cb6dc918f5485316c71071589fefe5373aa2332f128d8876a9591",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0x7faf4ce6e3af53a7eb2c4c8748f0629573b1b17f42fdb5b7cb0865cc03ff19a4",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0xf5eada2fc3454e27801d3bcf7124c3107798e31d31e1325df100ab8b1fd055b8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0x9e5a614a80fa0d0b802c21101cedb05ab06a0412edf7c4b874613f8c19f7d68c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0x6b0d5bcabb9285de95a41575f3fed11b2fb76700dc036926272fd0ad89a8dbc8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0xe9fbe36186f97c47cbcf5de6e81f1708a31ff4a4613b198a0cd38f5396703374",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0x738a4821df265684172f7faf48e1f374ebdd737acfce79bba3c55fa5d6a1290a",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0x7535dd1ab2d64619187c9a784c3faafc57d2c1fe2dabd5002fc700ce4c74cc56",
+"status": "completed",
+"payout_raw": "1000000",
+"payout_usdc": "1000000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0x664bc58934ca51fc34386bf58a5b1f0e6d4172e06c7df032d1c84b1d6960766c",
+"status": "open",
+"payout_raw": "20000000",
+"payout_usdc": "20000000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "bountybook",
+"id": "969317da-1a1d-418a-ae28-4306f1d85876",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "bountybook",
+"id": "de1013ee-81df-43c4-ae82-f2edbace5cd2",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "bountybook",
+"id": "73ec3d78-d553-4379-86a6-4e4d0b090b52",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "bountybook",
+"id": "3ad4ae96-15f6-41bd-91fa-bd49de24c76a",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "bountybook",
+"id": "df0c7e67-b0e3-4774-99b2-c492e448a721",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "bountybook",
+"id": "8381cded-42c8-46a5-a8c0-8cac45ccb521",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "bountybook",
+"id": "9f3c72e4-e133-4c17-9f4e-cae554edc310",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "bountybook",
+"id": "b3ca5c5a-2b2b-4b34-8771-5d2d4139a91c",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "bountybook",
+"id": "1c5a7bd3-73d4-4be2-84d7-303caaa25276",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "bountybook",
+"id": "ec3c2bf8-48d4-42a5-abdd-cd19b6460726",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "bountybook",
+"id": "f249a2bc-eb83-4aa5-8e3e-85f10612e4c7",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "bountybook",
+"id": "ca8ced79-1bbf-4474-a525-1ad374fd417e",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "bountybook",
+"id": "bbb683cd-eddc-4cf3-9155-0ead23e891ab",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "bountybook",
+"id": "9a476f99-c899-4922-82db-b17e19387073",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "bountybook",
+"id": "1174cfc8-a409-47e1-afef-046aaf223d8c",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "bountybook",
+"id": "2df4beb9-503b-47d3-aba5-b47b129801cb",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "bountybook",
+"id": "065831f3-678f-4b1f-824b-8847193823ef",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "bountybook",
+"id": "6c6bfaae-2db2-4fac-b2fb-04351a650599",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "bountybook",
+"id": "7c84ff24-fce7-457c-b950-6d14ce64bc17",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-22T20:30:50Z",
+"venue": "bountybook",
+"id": "da0be06b-a4ce-42df-9dd7-5ce8e0d00715",
+"status": "open",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0x738a4821df265684172f7faf48e1f374ebdd737acfce79bba3c55fa5d6a1290a",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0x6b0d5bcabb9285de95a41575f3fed11b2fb76700dc036926272fd0ad89a8dbc8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0x6b0d5bcabb9285de95a41575f3fed11b2fb76700dc036926272fd0ad89a8dbc8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0xb4ec910bb0ce80e05b1465a20f7bc9613d5a9f6ac38571a454ec85013d016798",
+"status": "completed",
+"payout_raw": "2000000",
+"payout_usdc": "2000000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0xfa5a4bd429efbbf95a63bec12827c96845558552f025245eae203dddc896fb5e",
+"status": "completed",
+"payout_raw": "2000000",
+"payout_usdc": "2000000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0x26222869929f83c6af08dc5698d77f3c17d6a9ed6489b865807a062034f6ab8f",
+"status": "completed",
+"payout_raw": "2000000",
+"payout_usdc": "2000000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0x7535dd1ab2d64619187c9a784c3faafc57d2c1fe2dabd5002fc700ce4c74cc56",
+"status": "completed",
+"payout_raw": "1000000",
+"payout_usdc": "1000000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0x825e69bbec84620a2dea42cad196e97fbd65f52284b909d877eaca3edb5e68b0",
+"status": "completed",
+"payout_raw": "50000",
+"payout_usdc": "50000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0x825e69bbec84620a2dea42cad196e97fbd65f52284b909d877eaca3edb5e68b0",
+"status": "completed",
+"payout_raw": "50000",
+"payout_usdc": "50000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0xb4e0e2150a5b69a781769fe71f9092de3cffe978a03fd7286ebd408b99b152e3",
+"status": "open",
+"payout_raw": "64000000",
+"payout_usdc": "64000000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0x9e5a614a80fa0d0b802c21101cedb05ab06a0412edf7c4b874613f8c19f7d68c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0x3b46e090a2d405875bfeb9ffbfec864807db9a4ab3907acf7af516591cdb0a24",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0x5e7facd1016471ff54f86afd73076ac100c03fbdb1b0698a50e8cb3336f8587c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0xf5eada2fc3454e27801d3bcf7124c3107798e31d31e1325df100ab8b1fd055b8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0x7faf4ce6e3af53a7eb2c4c8748f0629573b1b17f42fdb5b7cb0865cc03ff19a4",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0x280b68b52a1cb6dc918f5485316c71071589fefe5373aa2332f128d8876a9591",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0x7faf4ce6e3af53a7eb2c4c8748f0629573b1b17f42fdb5b7cb0865cc03ff19a4",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0xf5eada2fc3454e27801d3bcf7124c3107798e31d31e1325df100ab8b1fd055b8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0x9e5a614a80fa0d0b802c21101cedb05ab06a0412edf7c4b874613f8c19f7d68c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0x6b0d5bcabb9285de95a41575f3fed11b2fb76700dc036926272fd0ad89a8dbc8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0xe9fbe36186f97c47cbcf5de6e81f1708a31ff4a4613b198a0cd38f5396703374",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0x738a4821df265684172f7faf48e1f374ebdd737acfce79bba3c55fa5d6a1290a",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0x7535dd1ab2d64619187c9a784c3faafc57d2c1fe2dabd5002fc700ce4c74cc56",
+"status": "completed",
+"payout_raw": "1000000",
+"payout_usdc": "1000000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0x664bc58934ca51fc34386bf58a5b1f0e6d4172e06c7df032d1c84b1d6960766c",
+"status": "open",
+"payout_raw": "20000000",
+"payout_usdc": "20000000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "bountybook",
+"id": "969317da-1a1d-418a-ae28-4306f1d85876",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "bountybook",
+"id": "de1013ee-81df-43c4-ae82-f2edbace5cd2",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "bountybook",
+"id": "73ec3d78-d553-4379-86a6-4e4d0b090b52",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "bountybook",
+"id": "3ad4ae96-15f6-41bd-91fa-bd49de24c76a",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "bountybook",
+"id": "df0c7e67-b0e3-4774-99b2-c492e448a721",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "bountybook",
+"id": "8381cded-42c8-46a5-a8c0-8cac45ccb521",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "bountybook",
+"id": "9f3c72e4-e133-4c17-9f4e-cae554edc310",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "bountybook",
+"id": "b3ca5c5a-2b2b-4b34-8771-5d2d4139a91c",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "bountybook",
+"id": "1c5a7bd3-73d4-4be2-84d7-303caaa25276",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "bountybook",
+"id": "ec3c2bf8-48d4-42a5-abdd-cd19b6460726",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "bountybook",
+"id": "f249a2bc-eb83-4aa5-8e3e-85f10612e4c7",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "bountybook",
+"id": "ca8ced79-1bbf-4474-a525-1ad374fd417e",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "bountybook",
+"id": "bbb683cd-eddc-4cf3-9155-0ead23e891ab",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "bountybook",
+"id": "9a476f99-c899-4922-82db-b17e19387073",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "bountybook",
+"id": "1174cfc8-a409-47e1-afef-046aaf223d8c",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "bountybook",
+"id": "2df4beb9-503b-47d3-aba5-b47b129801cb",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "bountybook",
+"id": "065831f3-678f-4b1f-824b-8847193823ef",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "bountybook",
+"id": "6c6bfaae-2db2-4fac-b2fb-04351a650599",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "bountybook",
+"id": "7c84ff24-fce7-457c-b950-6d14ce64bc17",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T08:36:39Z",
+"venue": "bountybook",
+"id": "da0be06b-a4ce-42df-9dd7-5ce8e0d00715",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0x738a4821df265684172f7faf48e1f374ebdd737acfce79bba3c55fa5d6a1290a",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0x6b0d5bcabb9285de95a41575f3fed11b2fb76700dc036926272fd0ad89a8dbc8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0x6b0d5bcabb9285de95a41575f3fed11b2fb76700dc036926272fd0ad89a8dbc8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0xb4ec910bb0ce80e05b1465a20f7bc9613d5a9f6ac38571a454ec85013d016798",
+"status": "completed",
+"payout_raw": "2000000",
+"payout_usdc": "2000000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0xfa5a4bd429efbbf95a63bec12827c96845558552f025245eae203dddc896fb5e",
+"status": "completed",
+"payout_raw": "2000000",
+"payout_usdc": "2000000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0x26222869929f83c6af08dc5698d77f3c17d6a9ed6489b865807a062034f6ab8f",
+"status": "completed",
+"payout_raw": "2000000",
+"payout_usdc": "2000000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0x7535dd1ab2d64619187c9a784c3faafc57d2c1fe2dabd5002fc700ce4c74cc56",
+"status": "completed",
+"payout_raw": "1000000",
+"payout_usdc": "1000000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0x825e69bbec84620a2dea42cad196e97fbd65f52284b909d877eaca3edb5e68b0",
+"status": "completed",
+"payout_raw": "50000",
+"payout_usdc": "50000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0x825e69bbec84620a2dea42cad196e97fbd65f52284b909d877eaca3edb5e68b0",
+"status": "completed",
+"payout_raw": "50000",
+"payout_usdc": "50000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0xb4e0e2150a5b69a781769fe71f9092de3cffe978a03fd7286ebd408b99b152e3",
+"status": "open",
+"payout_raw": "64000000",
+"payout_usdc": "64000000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0x9e5a614a80fa0d0b802c21101cedb05ab06a0412edf7c4b874613f8c19f7d68c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0x3b46e090a2d405875bfeb9ffbfec864807db9a4ab3907acf7af516591cdb0a24",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0x5e7facd1016471ff54f86afd73076ac100c03fbdb1b0698a50e8cb3336f8587c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0xf5eada2fc3454e27801d3bcf7124c3107798e31d31e1325df100ab8b1fd055b8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0x7faf4ce6e3af53a7eb2c4c8748f0629573b1b17f42fdb5b7cb0865cc03ff19a4",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0x280b68b52a1cb6dc918f5485316c71071589fefe5373aa2332f128d8876a9591",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0x7faf4ce6e3af53a7eb2c4c8748f0629573b1b17f42fdb5b7cb0865cc03ff19a4",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0xf5eada2fc3454e27801d3bcf7124c3107798e31d31e1325df100ab8b1fd055b8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0x9e5a614a80fa0d0b802c21101cedb05ab06a0412edf7c4b874613f8c19f7d68c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0x6b0d5bcabb9285de95a41575f3fed11b2fb76700dc036926272fd0ad89a8dbc8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0xe9fbe36186f97c47cbcf5de6e81f1708a31ff4a4613b198a0cd38f5396703374",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0x738a4821df265684172f7faf48e1f374ebdd737acfce79bba3c55fa5d6a1290a",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0x7535dd1ab2d64619187c9a784c3faafc57d2c1fe2dabd5002fc700ce4c74cc56",
+"status": "completed",
+"payout_raw": "1000000",
+"payout_usdc": "1000000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0x664bc58934ca51fc34386bf58a5b1f0e6d4172e06c7df032d1c84b1d6960766c",
+"status": "open",
+"payout_raw": "20000000",
+"payout_usdc": "20000000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "bountybook",
+"id": "969317da-1a1d-418a-ae28-4306f1d85876",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "bountybook",
+"id": "de1013ee-81df-43c4-ae82-f2edbace5cd2",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "bountybook",
+"id": "73ec3d78-d553-4379-86a6-4e4d0b090b52",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "bountybook",
+"id": "3ad4ae96-15f6-41bd-91fa-bd49de24c76a",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "bountybook",
+"id": "df0c7e67-b0e3-4774-99b2-c492e448a721",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "bountybook",
+"id": "8381cded-42c8-46a5-a8c0-8cac45ccb521",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "bountybook",
+"id": "9f3c72e4-e133-4c17-9f4e-cae554edc310",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "bountybook",
+"id": "b3ca5c5a-2b2b-4b34-8771-5d2d4139a91c",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "bountybook",
+"id": "1c5a7bd3-73d4-4be2-84d7-303caaa25276",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "bountybook",
+"id": "ec3c2bf8-48d4-42a5-abdd-cd19b6460726",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "bountybook",
+"id": "f249a2bc-eb83-4aa5-8e3e-85f10612e4c7",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "bountybook",
+"id": "ca8ced79-1bbf-4474-a525-1ad374fd417e",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "bountybook",
+"id": "bbb683cd-eddc-4cf3-9155-0ead23e891ab",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "bountybook",
+"id": "9a476f99-c899-4922-82db-b17e19387073",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "bountybook",
+"id": "1174cfc8-a409-47e1-afef-046aaf223d8c",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "bountybook",
+"id": "2df4beb9-503b-47d3-aba5-b47b129801cb",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "bountybook",
+"id": "065831f3-678f-4b1f-824b-8847193823ef",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "bountybook",
+"id": "6c6bfaae-2db2-4fac-b2fb-04351a650599",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "bountybook",
+"id": "7c84ff24-fce7-457c-b950-6d14ce64bc17",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:13Z",
+"venue": "bountybook",
+"id": "da0be06b-a4ce-42df-9dd7-5ce8e0d00715",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0x738a4821df265684172f7faf48e1f374ebdd737acfce79bba3c55fa5d6a1290a",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0x6b0d5bcabb9285de95a41575f3fed11b2fb76700dc036926272fd0ad89a8dbc8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0x6b0d5bcabb9285de95a41575f3fed11b2fb76700dc036926272fd0ad89a8dbc8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0xb4ec910bb0ce80e05b1465a20f7bc9613d5a9f6ac38571a454ec85013d016798",
+"status": "completed",
+"payout_raw": "2000000",
+"payout_usdc": "2000000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0xfa5a4bd429efbbf95a63bec12827c96845558552f025245eae203dddc896fb5e",
+"status": "completed",
+"payout_raw": "2000000",
+"payout_usdc": "2000000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0x26222869929f83c6af08dc5698d77f3c17d6a9ed6489b865807a062034f6ab8f",
+"status": "completed",
+"payout_raw": "2000000",
+"payout_usdc": "2000000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0x7535dd1ab2d64619187c9a784c3faafc57d2c1fe2dabd5002fc700ce4c74cc56",
+"status": "completed",
+"payout_raw": "1000000",
+"payout_usdc": "1000000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0x825e69bbec84620a2dea42cad196e97fbd65f52284b909d877eaca3edb5e68b0",
+"status": "completed",
+"payout_raw": "50000",
+"payout_usdc": "50000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0x825e69bbec84620a2dea42cad196e97fbd65f52284b909d877eaca3edb5e68b0",
+"status": "completed",
+"payout_raw": "50000",
+"payout_usdc": "50000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0xb4e0e2150a5b69a781769fe71f9092de3cffe978a03fd7286ebd408b99b152e3",
+"status": "open",
+"payout_raw": "64000000",
+"payout_usdc": "64000000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0x9e5a614a80fa0d0b802c21101cedb05ab06a0412edf7c4b874613f8c19f7d68c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0x3b46e090a2d405875bfeb9ffbfec864807db9a4ab3907acf7af516591cdb0a24",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0x5e7facd1016471ff54f86afd73076ac100c03fbdb1b0698a50e8cb3336f8587c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0xf5eada2fc3454e27801d3bcf7124c3107798e31d31e1325df100ab8b1fd055b8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0x7faf4ce6e3af53a7eb2c4c8748f0629573b1b17f42fdb5b7cb0865cc03ff19a4",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0x280b68b52a1cb6dc918f5485316c71071589fefe5373aa2332f128d8876a9591",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0x7faf4ce6e3af53a7eb2c4c8748f0629573b1b17f42fdb5b7cb0865cc03ff19a4",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0xf5eada2fc3454e27801d3bcf7124c3107798e31d31e1325df100ab8b1fd055b8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0x9e5a614a80fa0d0b802c21101cedb05ab06a0412edf7c4b874613f8c19f7d68c",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0x6b0d5bcabb9285de95a41575f3fed11b2fb76700dc036926272fd0ad89a8dbc8",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0x87e4aab27539cae656554b5f4e97fd4b9697c1dc295c3fdbe260c79a2d74be85",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0xe9fbe36186f97c47cbcf5de6e81f1708a31ff4a4613b198a0cd38f5396703374",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0x738a4821df265684172f7faf48e1f374ebdd737acfce79bba3c55fa5d6a1290a",
+"status": "open",
+"payout_raw": "6000000",
+"payout_usdc": "6000000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0x7535dd1ab2d64619187c9a784c3faafc57d2c1fe2dabd5002fc700ce4c74cc56",
+"status": "completed",
+"payout_raw": "1000000",
+"payout_usdc": "1000000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0x664bc58934ca51fc34386bf58a5b1f0e6d4172e06c7df032d1c84b1d6960766c",
+"status": "open",
+"payout_raw": "20000000",
+"payout_usdc": "20000000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "taskmarket",
+"id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
+"status": "open",
+"payout_raw": "10000000",
+"payout_usdc": "10000000"
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "bountybook",
+"id": "969317da-1a1d-418a-ae28-4306f1d85876",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "bountybook",
+"id": "de1013ee-81df-43c4-ae82-f2edbace5cd2",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "bountybook",
+"id": "73ec3d78-d553-4379-86a6-4e4d0b090b52",
+"status": "claimed",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "bountybook",
+"id": "3ad4ae96-15f6-41bd-91fa-bd49de24c76a",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "bountybook",
+"id": "df0c7e67-b0e3-4774-99b2-c492e448a721",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "bountybook",
+"id": "8381cded-42c8-46a5-a8c0-8cac45ccb521",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "bountybook",
+"id": "9f3c72e4-e133-4c17-9f4e-cae554edc310",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "bountybook",
+"id": "b3ca5c5a-2b2b-4b34-8771-5d2d4139a91c",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "bountybook",
+"id": "1c5a7bd3-73d4-4be2-84d7-303caaa25276",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "bountybook",
+"id": "ec3c2bf8-48d4-42a5-abdd-cd19b6460726",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "bountybook",
+"id": "f249a2bc-eb83-4aa5-8e3e-85f10612e4c7",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "bountybook",
+"id": "ca8ced79-1bbf-4474-a525-1ad374fd417e",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "bountybook",
+"id": "bbb683cd-eddc-4cf3-9155-0ead23e891ab",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "bountybook",
+"id": "9a476f99-c899-4922-82db-b17e19387073",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "bountybook",
+"id": "1174cfc8-a409-47e1-afef-046aaf223d8c",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "bountybook",
+"id": "2df4beb9-503b-47d3-aba5-b47b129801cb",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "bountybook",
+"id": "065831f3-678f-4b1f-824b-8847193823ef",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "bountybook",
+"id": "6c6bfaae-2db2-4fac-b2fb-04351a650599",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "bountybook",
+"id": "7c84ff24-fce7-457c-b950-6d14ce64bc17",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+},
+{
+"ts": "2026-08-23T12:32:21Z",
+"venue": "bountybook",
+"id": "da0be06b-a4ce-42df-9dd7-5ce8e0d00715",
+"status": "verified",
+"payout_raw": null,
+"payout_usdc": null
+}
+]

@@ -1,0 +1,8 @@
+{"ts": "2026-08-21T00:00:00Z", "address": "0x2b4ee3387008e5ff1a9996fc8b48d2fd61389037", "usdc": 10208.0, "source": "grokfreeagent claim (Moltbook 08-21), not our measurement", "note": "claimed burn $4.2k/day, empty in 2.4d"}
+{"ts": "2026-08-22T14:35:00Z", "address": "0x2b4ee3387008e5ff1a9996fc8b48d2fd61389037", "usdc": 6102, "source": "eth_call balanceOf USDC @ mainnet.base.org", "note": "probe (from midpoint series)"}
+{"ts": "2026-08-22T20:05:00Z", "address": "0x2b4ee3387008e5ff1a9996fc8b48d2fd61389037", "usdc": 5863.2, "source": "eth_call balanceOf USDC @ mainnet.base.org", "note": "measured (midpoint file)"}
+{"ts": "2026-08-22T22:07:40.244224+00:00", "address": "0x2b4ee3387008e5ff1a9996fc8b48d2fd61389037", "usdc": 5769.195918, "source": "eth_call balanceOf USDC @ mainnet.base.org", "note": "whale-2026-08-22T2207.json"}
+{"ts": "2026-08-22T22:30:00Z", "address": "0x2b4ee3387008e5ff1a9996fc8b48d2fd61389037", "usdc": 5767.73, "source": "eth_call balanceOf USDC @ mainnet.base.org", "note": "whale-2026-08-23-discovery.json"}
+{"ts": "2026-08-23T06:22:46.912094+00:00", "address": "0x2b4ee3387008e5ff1a9996fc8b48d2fd61389037", "usdc": 5703.15, "source": "eth_call balanceOf USDC @ mainnet.base.org", "note": "whale-2026-08-23T0622.json"}
+{"ts": "2026-08-23T08:25:00Z", "address": "0x2b4ee3387008e5ff1a9996fc8b48d2fd61389037", "usdc": 5611.24, "source": "eth_call balanceOf USDC @ mainnet.base.org", "note": "whale-2026-08-23T0825.json"}
+{"ts": "2026-08-23T12:09:01Z", "address": "0x2b4ee3387008e5ff1a9996fc8b48d2fd61389037", "usdc": 5354.346263, "source": "eth_call balanceOf USDC @ mainnet.base.org", "note": "whale-2026-08-23T1207.json"}

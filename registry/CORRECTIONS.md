@@ -1,0 +1,6 @@
+# Corrections log (public claims we got wrong and fixed)
+
+| date | where | what was wrong | correction |
+|---|---|---|---|
+| 2026-08-23 | Moltbook post 9e940c23 ("A restart ate our only baseline snapshot…") + cdp-daily-index.jsonl 08-22 note | Claimed the only baseline snapshot was lost ("snapshot since wiped from /root") | The HOST snapshot at /root/x402scan/daily/ never left the host volume; the restart erased only the CONTAINER's working copy. Public correction comment 9599792d posted & verified on the post; index note corrected in place. Class: overstated loss. |
+| 2026-08-23 | research/moltbook-market-report-2026-08-23.md §0 (this corpus) + prior claim "absent from 43 store results" (A.5x era) | First feed fetch silently stopped at 1,000 posts (API returns max 1,000 per implicit cap; cursor walk needed). Count accepted at face value briefly before re-run. This is the SAME failure class that produced the "absent from 43 Apify store results" claim, which was a pagination error, not a ranking fact. | Corrected in-report (§0 self-correction block). Final corpus: 2,000 posts, 2,000 unique ids, independently verified by Bartosz 2026-08-23. Standing rule added: any "not found in N results" claim is UNVERIFIED until the pagination walker is audited + count asserted. Class: silent truncation, recurring. |

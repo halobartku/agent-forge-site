@@ -1,0 +1,170 @@
+[
+ {
+  "venue": "agent402-pricebug",
+  "status": "origin-fixed-theirs-pending",
+  "count": 1,
+  "last_ts": "2026-08-22T08:55:00Z"
+ },
+ {
+  "venue": "agenthansa",
+  "status": "blocked",
+  "count": 2,
+  "last_ts": "2026-08-19T17:55:00Z"
+ },
+ {
+  "venue": "agenthansa",
+  "status": "dead",
+  "count": 1,
+  "last_ts": "2026-08-19T17:55:00Z"
+ },
+ {
+  "venue": "apify-actor",
+  "status": "gns-daily",
+  "count": 2,
+  "last_ts": "2026-08-23T09:16:18Z"
+ },
+ {
+  "venue": "apify-correctness",
+  "status": "fixed",
+  "count": 1,
+  "last_ts": "2026-08-22T06:45:00Z"
+ },
+ {
+  "venue": "apify-correctness",
+  "status": "fixed+validated",
+  "count": 3,
+  "last_ts": "2026-08-22T06:45:00Z"
+ },
+ {
+  "venue": "apify-correctness",
+  "status": "validated",
+  "count": 4,
+  "last_ts": "2026-08-22T06:45:00Z"
+ },
+ {
+  "venue": "apify-decision",
+  "status": "stays-private",
+  "count": 1,
+  "last_ts": "2026-08-21T04:08:01Z"
+ },
+ {
+  "venue": "apify-discoverability",
+  "status": "done",
+  "count": 9,
+  "last_ts": "2026-08-22T20:15:00Z"
+ },
+ {
+  "venue": "apify-discoverability",
+  "status": "shipped",
+  "count": 4,
+  "last_ts": "2026-08-22T20:15:00Z"
+ },
+ {
+  "venue": "apify-distribution",
+  "status": "listing-rewritten",
+  "count": 1,
+  "last_ts": "2026-08-23T02:55:00Z"
+ },
+ {
+  "venue": "apify-publish-queue",
+  "status": "blocked",
+  "count": 2,
+  "last_ts": "2026-08-21T00:10:04Z"
+ },
+ {
+  "venue": "apify-publish-queue",
+  "status": "done",
+  "count": 1,
+  "last_ts": "2026-08-21T00:10:04Z"
+ },
+ {
+  "venue": "apify-publish-queue",
+  "status": "published",
+  "count": 2,
+  "last_ts": "2026-08-21T00:10:04Z"
+ },
+ {
+  "venue": "apify-publish-queue",
+  "status": "ready",
+  "count": 1,
+  "last_ts": "2026-08-21T00:10:04Z"
+ },
+ {
+  "venue": "apify-slug-staging",
+  "status": "staged-private",
+  "count": 1,
+  "last_ts": "2026-08-23T06:12:18Z"
+ },
+ {
+  "venue": "bountybook",
+  "status": "claimed",
+  "count": 51,
+  "last_ts": "2026-08-23T12:32:21Z"
+ },
+ {
+  "venue": "bountybook",
+  "status": "open",
+  "count": 134,
+  "last_ts": "2026-08-23T12:32:21Z"
+ },
+ {
+  "venue": "bountybook",
+  "status": "refunded",
+  "count": 18,
+  "last_ts": "2026-08-23T12:32:21Z"
+ },
+ {
+  "venue": "bountybook",
+  "status": "verified",
+  "count": 57,
+  "last_ts": "2026-08-23T12:32:21Z"
+ },
+ {
+  "venue": "taskmarket",
+  "status": "?",
+  "count": 22,
+  "last_ts": "2026-08-23T12:32:21Z"
+ },
+ {
+  "venue": "taskmarket",
+  "status": "completed",
+  "count": 65,
+  "last_ts": "2026-08-23T12:32:21Z"
+ },
+ {
+  "venue": "taskmarket",
+  "status": "in-progress",
+  "count": 1,
+  "last_ts": "2026-08-23T12:32:21Z"
+ },
+ {
+  "venue": "taskmarket",
+  "status": "lost",
+  "count": 1,
+  "last_ts": "2026-08-23T12:32:21Z"
+ },
+ {
+  "venue": "taskmarket",
+  "status": "open",
+  "count": 276,
+  "last_ts": "2026-08-23T12:32:21Z"
+ },
+ {
+  "venue": "taskmarket",
+  "status": "paid",
+  "count": 1,
+  "last_ts": "2026-08-23T12:32:21Z"
+ },
+ {
+  "venue": "taskmarket",
+  "status": "submitted",
+  "count": 6,
+  "last_ts": "2026-08-23T12:32:21Z"
+ },
+ {
+  "venue": "x402-list",
+  "status": "pending",
+  "count": 1,
+  "last_ts": "2026-08-19T18:25:00Z"
+ }
+]
