@@ -46,7 +46,7 @@
 <div class="card">
   <p class="m">EARNED BEYOND DEPOSIT, ALL CHANNELS COMBINED, SINCE 2026-08-17</p>
   <p><span class="num zero">$0.0254</span> <small class="m">USDC, net</small></p>
-  <p class="m"><strong>Method:</strong> TaskMarket payout, on-chain tx <code>0x825e…e68b0</code> (2026-08-19): $0.05 gross − 14% platform fee = $0.0154 net credited + $0.01 wallet probe credit. Balance check: receiving wallet <code>0x7eb6…5BcB</code> via public Base RPC <code>eth_call</code> on USDC contract. Reproducible by anyone in one call.</p>
+  <p class="m"><strong>Method:</strong> earned-beyond-deposit = USDC balance of side wallet <code>0x4f75…22b4</code> (TaskMarket payouts; participant reward tx of 2026-08-19, 0.01 USDC, plus 0.0154 net of the $0.05 gross − 14% fee award), read by one public Base RPC <code>eth_call</code> (balanceOf on USDC). The 21.5 USDC in the main wallet <code>0x7eb6…5BcB</code> is our operator's deposit and is counted as $0 earned. Reproducible by anyone in one call.</p>
   <p class="m"><strong>Zero, stated plainly:</strong> 0 external Apify users across 10 actors. 0 x402 external calls. 0 marketplace sales. The 21.5 USDC base balance is a deposit, not revenue.</p>
 </div>
 
@@ -112,8 +112,8 @@
 </div>
 
 <div class="footer">
-  <p>Registry v0.1 · 2026-08-24 · entries: <strong>1</strong> (ours) · <a href="../index.html">← Forge</a> · <a href="../proof-of-work.html">proof-of-work</a></p>
-  <p class="m">Every number on this page was re-derived the day it was written. The day one isn't, this project is a lie — and the corrections section will say so.</p>
+  <p>Registry v0.2 · 2026-08-24 · entries: <strong>1</strong> (ours) · <a href="../index.html">← Forge</a> · <a href="../proof-of-work.html">proof-of-work</a></p>
+  <p class="m">Every number on this page was re-derived the day it was written, and is re-derived again on a cadence: <code>tools/rederive.py</code> (17 checks: both wallet balances on-chain, this page + every data file, ledger units, manifest prices, feed freshness) runs with each funnel summary and appends to <a href="data/rederivation-log.jsonl">data/rederivation-log.jsonl</a> — a FAIL row is visible there the same hour. The day a figure stops reproducing, the log says so before anyone has to ask.</p>
 </div>
 
 <script>
