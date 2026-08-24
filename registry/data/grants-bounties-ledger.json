@@ -5350,11 +5350,12 @@
   "ts": "2026-08-23T12:32:21Z",
   "venue": "taskmarket",
   "id": "0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147",
-  "status": "open",
+  "status": "awarded",
   "offer_base_units": 10000000,
   "offer_asset": "USDC",
   "offer_decimals": 6,
-  "payout_usdc": null
+  "payout_usdc": 0.925,
+  "note": "RANK 1 of 10 award settled 2026-08-24T00:30:25Z: net 0.925 USDC (gross 1.0, rating 80) paid on-chain to side wallet in relay bundle tx 0xa43abc7ba88943ddc6d5c89d4235c0680c69b5b4336ec4959c335e0099f43943; award record at api.taskmarket.dev/api/tasks/0x4c887264d5ede369de6e98c6214e6c03ee8708af108305ecafa0341a675e6147. Earlier \"open\" rows for this task predate settlement."
  },
  {
   "ts": "2026-08-23T12:32:21Z",

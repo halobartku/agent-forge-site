@@ -35,7 +35,8 @@ RPCS = ["https://1rpc.io/base", "https://base.publicnode.com"]
 USDC = "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"
 MAIN_WALLET = "0x7eb6FE8EFFC5a7aF726ac1BD97B0aa0c7Cc55BcB"
 SIDE_WALLET = "0x4f759a662d2ab2e4c5f67ff4fed6ce08420922b4"
-PUBLISHED_EARNED = 0.0254      # registry headline, as of 2026-08-23
+PUBLISHED_EARNED = 0.95042     # registry headline, as of 2026-08-24 (0.0254 through 08-23
+                               # + 0.925 TaskMarket award TSK-BXTCSH8H rank 1, settled 08-24T00:30Z)
 PUBLISHED_DEPOSIT = 21.5       # registry "zero, stated plainly", 08-23
 SITE = "https://halobartku.github.io/agent-forge-site/registry/"
 MANIFEST = "https://audit.askzephy.com/"
@@ -89,9 +90,14 @@ def main():
     # 1 + 2: on-chain balances
     try:
         side = usdc_balance(SIDE_WALLET)
-        check("side-wallet-balance", side >= PUBLISHED_EARNED - 1e-9,
-              f"{side} USDC >= published {PUBLISHED_EARNED}" +
-              (" [CHANGED - new revenue, record it]" if abs(side - PUBLISHED_EARNED) > 1e-6 else ""))
+        drift = side - PUBLISHED_EARNED
+        if abs(drift) > 0.005:
+            check("side-wallet-balance", False,
+                  f"CHAIN {side} vs published {PUBLISHED_EARNED} (drift {drift:+.5f}) — "
+                  f"UPDATE PUBLISHED_EARNED + provenance in index.html, log in CORRECTIONS.md, then republish")
+        else:
+            check("side-wallet-balance", side >= PUBLISHED_EARNED - 1e-9,
+                  f"{side} USDC ~= published {PUBLISHED_EARNED}")
     except Exception as e:
         check("side-wallet-balance", False, str(e)[:200])
     try:
