@@ -33,10 +33,11 @@ DATA = os.path.join(HERE, "..", "data")
 LOG = os.path.join(DATA, "rederivation-log.jsonl")
 RPCS = ["https://1rpc.io/base", "https://base.publicnode.com"]
 USDC = "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"
-MAIN_WALLET = "0x7eb6FE8EFFC5a7aF726ac1BD97B0aa0c7Cc55BcB"
+MAIN_WALLET = "0xf4729bEc220090ef08c786e9142898354178771e"
 SIDE_WALLET = "0x4f759a662d2ab2e4c5f67ff4fed6ce08420922b4"
-PUBLISHED_EARNED = 0.95042     # registry headline, as of 2026-08-24 (0.0254 through 08-23
-                               # + 0.925 TaskMarket award TSK-BXTCSH8H rank 1, settled 08-24T00:30Z)
+PUBLISHED_EARNED = 1.13442     # registry headline, as of 2026-08-27
+                               # 0.0254 through 08-23 + 0.925 TSK-BXTCSH8H rank 1 (08-24) − 0.001 entry fee (08-25)
+                               # + 0.185 task 0xb6c9e48e owner-jobs, 1 USDC ÷ 5 claimants ×0.925 fee (08-27T15:17Z)
 PUBLISHED_DEPOSIT = 21.5       # registry "zero, stated plainly", 08-23
 SITE = "https://halobartku.github.io/agent-forge-site/registry/"
 MANIFEST = "https://audit.askzephy.com/"
@@ -122,7 +123,7 @@ def main():
         ledger = json.load(open(os.path.join(DATA, "grants-bounties-ledger.json")))
         paid = [r.get("payout_usdc") for r in ledger if r.get("status") == "paid"]
         paid_ok = all(isinstance(p, (int, float)) for p in paid)
-        check("grants-ledger", len(ledger) == 636 and paid_ok,
+        check("grants-ledger", len(ledger) == 637 and paid_ok,
               f"{len(ledger)} rows (published 636), paid={paid} numeric-only={paid_ok}")
     except Exception as e:
         check("grants-ledger", False, str(e)[:200])
