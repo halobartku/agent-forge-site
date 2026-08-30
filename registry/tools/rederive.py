@@ -9,19 +9,23 @@ cron prints FAIL lines, and the log itself shows when a figure stopped
 reproducing.
 
 Checks (method is the same one published on the registry page):
-  1. side wallet 0x4f75...22b4 USDC balance via public Base RPC eth_call
-     (balanceOf 0x70a08231) — must be >= the ledger's "earned beyond
-     deposit" figure; a CHANGE means revenue the ledger must record.
-  2. main wallet 0x7eb6...5BcB USDC balance — must be >= the 21.5 deposit
-     figure (deposit, not revenue).
-  3. registry page + every linked data file returns 200 non-empty.
-  4. grants ledger: row count matches the published count; paid rows are
+  1. EARNED = USDC balance of consolidated wallet 0xf4729...771e via public
+     Base RPC eth_call (balanceOf 0x70a08231) MINUS the 21.5 USDC operator
+     deposit — must equal the ledger's "earned beyond deposit" figure within
+     0.005. (Method changed 2026-08-30: wallet consolidation after the signer
+     compromise emptied the side wallet; the old method — read the side
+     wallet directly — returned 0 and no longer derived the number.)
+  1b. old wallets 0x4f75...22b4 (task earnings) and 0x7eb6...5BcB (old
+     deposit) must BOTH be empty; a non-zero balance there means earnings
+     landed somewhere the headline does not count — FAIL so we notice.
+  2. grants ledger: row count matches the published count; paid rows are
      numeric-only (delegates unit assertion to check-units.py).
-  5. x402 manifest at audit.askzephy.com: 200, tools present, prices
+  3. registry page + every linked data file returns 200 non-empty.
+  4. x402 manifest at audit.askzephy.com: 200, tools present, prices
      match the published openapi values (0.05 / 0.005 / 0.01).
-  6. live-experiment feeds not stale: last row of whale-watch /
+  5. live-experiment feeds not stale: last row of whale-watch /
      frozen-listing / census index younger than 30h.
-  7. CORRECTIONS.md exists and carries >= 3 dated corrections.
+  6. CORRECTIONS.md exists and carries >= 3 dated corrections.
 
 Exit code 0 = all checks pass. Any FAIL exits 1 and names the check.
 stdlib only; runs anywhere with python3 + network (host or container).
@@ -33,12 +37,14 @@ DATA = os.path.join(HERE, "..", "data")
 LOG = os.path.join(DATA, "rederivation-log.jsonl")
 RPCS = ["https://1rpc.io/base", "https://base.publicnode.com"]
 USDC = "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"
-MAIN_WALLET = "0xf4729bEc220090ef08c786e9142898354178771e"
-SIDE_WALLET = "0x4f759a662d2ab2e4c5f67ff4fed6ce08420922b4"
-PUBLISHED_EARNED = 1.13442     # registry headline, as of 2026-08-27
-                               # 0.0254 through 08-23 + 0.925 TSK-BXTCSH8H rank 1 (08-24) − 0.001 entry fee (08-25)
-                               # + 0.185 task 0xb6c9e48e owner-jobs, 1 USDC ÷ 5 claimants ×0.925 fee (08-27T15:17Z)
-PUBLISHED_DEPOSIT = 21.5       # registry "zero, stated plainly", 08-23
+MAIN_WALLET = "0xf4729bEc220090ef08c786e9142898354178771e"  # consolidated wallet since 2026-08-29
+OLD_EARNINGS_WALLET = "0x4f759a662d2ab2e4c5f67ff4fed6ce08420922b4"  # emptied 2026-08-27T20:37Z (tx 0xd5f886a3…9b8e578)
+OLD_DEPOSIT_WALLET = "0x7eb6FE8EFFC5a7aF726ac1BD97B0aa0c7Cc55BcB"    # emptied 2026-08-29T21:02Z (tx 0xbfd5cd8c…42bc3c9)
+PUBLISHED_EARNED = 1.114420  # registry headline, as of 2026-08-30
+                              # 0.0254 through 08-23 + 0.925 TSK-BXTCSH8H rank 1 (08-24) − 0.001 entry fee (08-25)
+                              # + 0.185 task 0xb6c9e48e owner-jobs (08-27) = 1.13442 GROSS
+                              # − 0.02 x402 job-health purchase (08-29, tx 0x7d790b49…573cd612) = 1.114420 NET
+PUBLISHED_DEPOSIT = 21.5      # operator deposit inside the consolidated wallet, 08-23
 SITE = "https://halobartku.github.io/agent-forge-site/registry/"
 MANIFEST = "https://audit.askzephy.com/"
 PRICES = {"audit": 0.05, "quick-scan": 0.005, "news": 0.01}
@@ -88,25 +94,29 @@ def jsonl_rows(path):
 def main():
     now = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
-    # 1 + 2: on-chain balances
+    # 1: earned = consolidated balance − deposit; 1b: old wallets must be empty
     try:
-        side = usdc_balance(SIDE_WALLET)
-        drift = side - PUBLISHED_EARNED
+        bal = usdc_balance(MAIN_WALLET)
+        earned = round(bal - PUBLISHED_DEPOSIT, 6)
+        drift = round(earned - PUBLISHED_EARNED, 6)
         if abs(drift) > 0.005:
-            check("side-wallet-balance", False,
-                  f"CHAIN {side} vs published {PUBLISHED_EARNED} (drift {drift:+.5f}) — "
+            check("earned-beyond-deposit", False,
+                  f"CHAIN balance {bal} − deposit {PUBLISHED_DEPOSIT} = {earned} vs published {PUBLISHED_EARNED} (drift {drift:+.5f}) — "
                   f"UPDATE PUBLISHED_EARNED + provenance in index.html, log in CORRECTIONS.md, then republish")
         else:
-            check("side-wallet-balance", side >= PUBLISHED_EARNED - 1e-9,
-                  f"{side} USDC ~= published {PUBLISHED_EARNED}")
+            check("earned-beyond-deposit", True,
+                  f"balance {bal} − {PUBLISHED_DEPOSIT} = {earned} ~= published {PUBLISHED_EARNED}")
     except Exception as e:
-        check("side-wallet-balance", False, str(e)[:200])
-    try:
-        main_bal = usdc_balance(MAIN_WALLET)
-        check("main-wallet-deposit", main_bal >= PUBLISHED_DEPOSIT - 1e-9,
-              f"{main_bal} USDC >= deposited {PUBLISHED_DEPOSIT}")
-    except Exception as e:
-        check("main-wallet-deposit", False, str(e)[:200])
+        check("earned-beyond-deposit", False, str(e)[:200])
+    for wname, waddr in [("old-earnings-wallet-empty", OLD_EARNINGS_WALLET),
+                         ("old-deposit-wallet-empty", OLD_DEPOSIT_WALLET)]:
+        try:
+            b = usdc_balance(waddr)
+            check(wname, b < 0.000001,
+                  f"{b} USDC (must be 0: funds consolidated to 0xf4729…771e on 2026-08-29; "
+                  f"a non-zero balance here means earnings the headline does not count)")
+        except Exception as e:
+            check(wname, False, str(e)[:200])
 
     # 3: site files live
     for f in ["", "CORRECTIONS.md", "data/whale-watch.jsonl", "data/census-daily-index.jsonl",
@@ -124,7 +134,7 @@ def main():
         paid = [r.get("payout_usdc") for r in ledger if r.get("status") == "paid"]
         paid_ok = all(isinstance(p, (int, float)) for p in paid)
         check("grants-ledger", len(ledger) == 637 and paid_ok,
-              f"{len(ledger)} rows (published 636), paid={paid} numeric-only={paid_ok}")
+              f"{len(ledger)} rows (published 637), paid={paid} numeric-only={paid_ok}")
     except Exception as e:
         check("grants-ledger", False, str(e)[:200])
     try:

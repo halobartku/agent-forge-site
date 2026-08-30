@@ -5496,5 +5496,16 @@
   "id": "da0be06b-a4ce-42df-9dd7-5ce8e0d00715",
   "status": "verified",
   "payout_usdc": null
+ },
+ {
+  "ts": "2026-08-18T14:35:31Z",
+  "venue": "taskmarket",
+  "id": "0xb6c9e48e",
+  "status": "awarded",
+  "offer_base_units": 1000000,
+  "offer_asset": "USDC",
+  "offer_decimals": 6,
+  "payout_usdc": 0.185,
+  "note": "1 of 5 paid claimants, settled 2026-08-27T15:17Z: 1 USDC pool \u00f7 5 claimants = 0.20 gross \u00d70.925 after 7.5% fee. tx 0xe66da5b31a06b03c64683f0caffd37ebf59ce305bb57217ff3725c7189ef324f (side wallet 0x4f75\u202622b4 one of 5 payees in calldata)"
  }
 ]
