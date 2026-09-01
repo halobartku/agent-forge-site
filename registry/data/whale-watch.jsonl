@@ -10,3 +10,4 @@
 {"ts": "2026-08-30T12:39:45Z", "address": "0x2b4ee3387008e5ff1a9996fc8b48d2fd61389037", "usdc": 4822.431221, "source": "eth_call balanceOf USDC @ mainnet.base.org", "note": "feed resumed 08-30 after 6-day lapse (checker had no cron); 35th series point, zero-inflow run continues"}
 {"ts": "2026-08-31T19:22:19.898758+00:00", "address": "0x2b4ee3387008e5ff1a9996fc8b48d2fd61389037", "usdc": 4822.431221, "source": "eth_call balanceOf USDC @ mainnet.base.org", "note": "36th series point; balance flat at 4822.43 since 08-28 (zero inflow/outflow 3d); feed synced to site 08-31 after publish step had no owner"}
 {"ts": "2026-09-01T11:21:27.726986+00:00", "address": "0x2b4ee3387008e5ff1a9996fc8b48d2fd61389037", "usdc": 4822.431221, "source": "eth_call balanceOf USDC @ mainnet.base.org"}
+{"ts": "2026-09-01T15:32:59.762167+00:00", "address": "0x2b4ee3387008e5ff1a9996fc8b48d2fd61389037", "usdc": 4822.431221, "source": "eth_call balanceOf USDC @ mainnet.base.org"}
