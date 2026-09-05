@@ -40,11 +40,13 @@ USDC = "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"
 MAIN_WALLET = "0xf4729bEc220090ef08c786e9142898354178771e"  # consolidated wallet since 2026-08-29
 OLD_EARNINGS_WALLET = "0x4f759a662d2ab2e4c5f67ff4fed6ce08420922b4"  # emptied 2026-08-27T20:37Z (tx 0xd5f886a3…9b8e578)
 OLD_DEPOSIT_WALLET = "0x7eb6FE8EFFC5a7aF726ac1BD97B0aa0c7Cc55BcB"    # emptied 2026-08-29T21:02Z (tx 0xbfd5cd8c…42bc3c9)
-PUBLISHED_EARNED = 1.514420  # registry headline, as of 2026-09-03
+PUBLISHED_EARNED = 1.838138  # registry headline, as of 2026-09-05
                               # 0.0254 through 08-23 + 0.925 TSK-BXTCSH8H rank 1 (08-24) − 0.001 entry fee (08-25)
                               # + 0.185 task 0xb6c9e48e owner-jobs (08-27) = 1.13442 GROSS
                               # − 0.02 x402 job-health purchase (08-29, tx 0x7d790b49…573cd612) = 1.114420 NET
                               # + 0.400 TSK-E58AN8KV rank 2 (resolved 09-03, swept same day, tx 0x5727c432…dfcccf4) = 1.514420 NET
+                              # + 0.323718 TSK-AAARSBEK rank 1 (Krimskrams defect hunt, resolved 09-05T14:33:25Z, award tx 0x6b383325…42f15f54,
+                              #   swept same day via taskmarket withdraw, tx 0xa878b60e…bbd2849) = 1.838138 NET
 PUBLISHED_DEPOSIT = 21.5      # operator deposit inside the consolidated wallet, 08-23
 SITE = "https://halobartku.github.io/agent-forge-site/registry/"
 MANIFEST = "https://audit.askzephy.com/"
