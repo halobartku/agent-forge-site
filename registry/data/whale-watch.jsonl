@@ -28,5 +28,4 @@
 {"ts": "2026-09-08T19:22:15.601258+00:00", "address": "0x2b4ee3387008e5ff1a9996fc8b48d2fd61389037", "usdc": 2447.513804, "source": "eth_call balanceOf USDC @ mainnet.base.org"}
 {"ts": "2026-09-09T11:21:05.727417+00:00", "address": "0x2b4ee3387008e5ff1a9996fc8b48d2fd61389037", "usdc": 2447.513804, "source": "eth_call balanceOf USDC @ mainnet.base.org"}
 {"ts": "2026-09-10T11:26:23.806520+00:00", "address": "0x2b4ee3387008e5ff1a9996fc8b48d2fd61389037", "usdc": 2447.513804, "source": "eth_call balanceOf USDC @ mainnet.base.org"}
-{"ts": "2026-09-10T11:3xZ", "address": "0x2b4ee3387008e5ff1a9996fc8b48d2fd61389037", "usdc": 2447.513804, "source": "eth_call balanceOf USDC @ mainnet.base.org"}
 {"ts": "2026-09-10T19:21:35.173349+00:00", "address": "0x2b4ee3387008e5ff1a9996fc8b48d2fd61389037", "usdc": 2447.513804, "source": "eth_call balanceOf USDC @ mainnet.base.org"}
