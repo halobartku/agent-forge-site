@@ -9,9 +9,10 @@ cron prints FAIL lines, and the log itself shows when a figure stopped
 reproducing.
 
 Checks (method is the same one published on the registry page):
-  1. EARNED = USDC balance of consolidated wallet 0xf4729...771e via public
-     Base RPC eth_call (balanceOf 0x70a08231) MINUS the 21.5 USDC operator
-     deposit — must equal the ledger's "earned beyond deposit" figure within
+  1. EARNED = USDC balance of consolidated wallet 0xf4729...771e PLUS
+     operator funder wallet 0xFe49...4ee9 (3.00 moved there 2026-09-12),
+     both via public Base RPC eth_call (balanceOf 0x70a08231), MINUS the
+     21.5 USDC operator deposit — must equal the ledger's "earned beyond deposit" figure within
      0.0005 (tightened 2026-09-12: the old 0.005 tolerance let a whole 0.005
      income event hide as PASS for 20+ runs). (Method changed 2026-08-30: wallet consolidation after the signer
      compromise emptied the side wallet; the old method — read the side
@@ -39,6 +40,10 @@ LOG = os.path.join(DATA, "rederivation-log.jsonl")
 RPCS = ["https://1rpc.io/base", "https://base.publicnode.com"]
 USDC = "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"
 MAIN_WALLET = "0xf4729bEc220090ef08c786e9142898354178771e"  # consolidated wallet since 2026-08-29
+FUNDER_WALLET = "0xFe49b37c0CefD15239300bd1BfeD9d54C44c4ee9"      # operator funder wallet since 2026-09-12
+                                                               # (3.00 USDC moved here from MAIN for the 1f916.ai
+                                                               #  proof-of-funds entry, txs 0x77483e5e…f2cada + 0x4e80eb2b…252df783;
+                                                               #  internal transfer between wallets we control — earned counts BOTH)
 OLD_EARNINGS_WALLET = "0x4f759a662d2ab2e4c5f67ff4fed6ce08420922b4"  # emptied 2026-08-27T20:37Z (tx 0xd5f886a3…9b8e578)
 OLD_DEPOSIT_WALLET = "0x7eb6FE8EFFC5a7aF726ac1BD97B0aa0c7Cc55BcB"    # emptied 2026-08-29T21:02Z (tx 0xbfd5cd8c…42bc3c9)
 PUBLISHED_EARNED = 1.843138  # registry headline, as of 2026-09-12
@@ -100,18 +105,22 @@ def jsonl_rows(path):
 def main():
     now = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
-    # 1: earned = consolidated balance − deposit; 1b: old wallets must be empty
+    # 1: earned = main + funder balances − deposit; 1b: old wallets must be empty
+    #    (2026-09-12: main wallet started spending — 3.00 to our own funder wallet for
+    #     the 1f916.ai entry — so balance−deposit alone no longer derives the headline;
+    #     both operator wallets are summed. Any movement OUT of either breaks this again.)
     try:
         bal = usdc_balance(MAIN_WALLET)
-        earned = round(bal - PUBLISHED_DEPOSIT, 6)
+        fund = usdc_balance(FUNDER_WALLET)
+        earned = round(bal + fund - PUBLISHED_DEPOSIT, 6)
         drift = round(earned - PUBLISHED_EARNED, 6)
         if abs(drift) > 0.0005:
             check("earned-beyond-deposit", False,
-                  f"CHAIN balance {bal} − deposit {PUBLISHED_DEPOSIT} = {earned} vs published {PUBLISHED_EARNED} (drift {drift:+.5f}) — "
+                  f"CHAIN balances {bal} + {fund} − deposit {PUBLISHED_DEPOSIT} = {earned} vs published {PUBLISHED_EARNED} (drift {drift:+.5f}) — "
                   f"UPDATE PUBLISHED_EARNED + provenance in index.html, log in CORRECTIONS.md, then republish")
         else:
             check("earned-beyond-deposit", True,
-                  f"balance {bal} − {PUBLISHED_DEPOSIT} = {earned} ~= published {PUBLISHED_EARNED}")
+                  f"balances {bal} + {fund} − {PUBLISHED_DEPOSIT} = {earned} ~= published {PUBLISHED_EARNED}")
     except Exception as e:
         check("earned-beyond-deposit", False, str(e)[:200])
     for wname, waddr in [("old-earnings-wallet-empty", OLD_EARNINGS_WALLET),
