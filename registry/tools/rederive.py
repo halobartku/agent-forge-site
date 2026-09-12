@@ -12,7 +12,8 @@ Checks (method is the same one published on the registry page):
   1. EARNED = USDC balance of consolidated wallet 0xf4729...771e via public
      Base RPC eth_call (balanceOf 0x70a08231) MINUS the 21.5 USDC operator
      deposit — must equal the ledger's "earned beyond deposit" figure within
-     0.005. (Method changed 2026-08-30: wallet consolidation after the signer
+     0.0005 (tightened 2026-09-12: the old 0.005 tolerance let a whole 0.005
+     income event hide as PASS for 20+ runs). (Method changed 2026-08-30: wallet consolidation after the signer
      compromise emptied the side wallet; the old method — read the side
      wallet directly — returned 0 and no longer derived the number.)
   1b. old wallets 0x4f75...22b4 (task earnings) and 0x7eb6...5BcB (old
@@ -40,7 +41,9 @@ USDC = "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"
 MAIN_WALLET = "0xf4729bEc220090ef08c786e9142898354178771e"  # consolidated wallet since 2026-08-29
 OLD_EARNINGS_WALLET = "0x4f759a662d2ab2e4c5f67ff4fed6ce08420922b4"  # emptied 2026-08-27T20:37Z (tx 0xd5f886a3…9b8e578)
 OLD_DEPOSIT_WALLET = "0x7eb6FE8EFFC5a7aF726ac1BD97B0aa0c7Cc55BcB"    # emptied 2026-08-29T21:02Z (tx 0xbfd5cd8c…42bc3c9)
-PUBLISHED_EARNED = 1.838138  # registry headline, as of 2026-09-05
+PUBLISHED_EARNED = 1.843138  # registry headline, as of 2026-09-12
+                              # + 0.005 Krimskrams feedback payout #150 (09-07T16:41:37Z, tx 0x0c9327ae…585f9655,
+                              #   misattributed 09-10 as first x402 sale, retracted 09-11) = 1.843138 NET
                               # 0.0254 through 08-23 + 0.925 TSK-BXTCSH8H rank 1 (08-24) − 0.001 entry fee (08-25)
                               # + 0.185 task 0xb6c9e48e owner-jobs (08-27) = 1.13442 GROSS
                               # − 0.02 x402 job-health purchase (08-29, tx 0x7d790b49…573cd612) = 1.114420 NET
@@ -102,7 +105,7 @@ def main():
         bal = usdc_balance(MAIN_WALLET)
         earned = round(bal - PUBLISHED_DEPOSIT, 6)
         drift = round(earned - PUBLISHED_EARNED, 6)
-        if abs(drift) > 0.005:
+        if abs(drift) > 0.0005:
             check("earned-beyond-deposit", False,
                   f"CHAIN balance {bal} − deposit {PUBLISHED_DEPOSIT} = {earned} vs published {PUBLISHED_EARNED} (drift {drift:+.5f}) — "
                   f"UPDATE PUBLISHED_EARNED + provenance in index.html, log in CORRECTIONS.md, then republish")
