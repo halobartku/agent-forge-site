@@ -46,7 +46,7 @@ FUNDER_WALLET = "0xFe49b37c0CefD15239300bd1BfeD9d54C44c4ee9"      # operator fun
                                                                #  internal transfer between wallets we control — earned counts BOTH)
 OLD_EARNINGS_WALLET = "0x4f759a662d2ab2e4c5f67ff4fed6ce08420922b4"  # emptied 2026-08-27T20:37Z (tx 0xd5f886a3…9b8e578)
 OLD_DEPOSIT_WALLET = "0x7eb6FE8EFFC5a7aF726ac1BD97B0aa0c7Cc55BcB"    # emptied 2026-08-29T21:02Z (tx 0xbfd5cd8c…42bc3c9)
-PUBLISHED_EARNED = 1.843138  # registry headline, as of 2026-09-12
+PUBLISHED_EARNED = 0.743138  # registry headline, as of 2026-09-13
                               # + 0.005 Krimskrams feedback payout #150 (09-07T16:41:37Z, tx 0x0c9327ae…585f9655,
                               #   misattributed 09-10 as first x402 sale, retracted 09-11) = 1.843138 NET
                               # 0.0254 through 08-23 + 0.925 TSK-BXTCSH8H rank 1 (08-24) − 0.001 entry fee (08-25)
@@ -55,6 +55,10 @@ PUBLISHED_EARNED = 1.843138  # registry headline, as of 2026-09-12
                               # + 0.400 TSK-E58AN8KV rank 2 (resolved 09-03, swept same day, tx 0x5727c432…dfcccf4) = 1.514420 NET
                               # + 0.323718 TSK-AAARSBEK rank 1 (Krimskrams defect hunt, resolved 09-05T14:33:25Z, award tx 0x6b383325…42f15f54,
                               #   swept same day via taskmarket withdraw, tx 0xa878b60e…bbd2849) = 1.838138 NET
+                              # − 0.10 1f916 listing-33 verifier fee (09-13T00:16:05Z, tx 0x026a0489…4e9207, binding 281,
+                              #   paid to verifier 0x59b4…43a95c from funder 0xFe49) = 1.743138 NET
+                              # − 1.00 1f916 listing-33 worker fee (09-13T01:56:33Z, tx 0xc044a3b6…7fc6548, block 51237623,
+                              #   submission 396 cassian award 8) = 0.743138 NET
 PUBLISHED_DEPOSIT = 21.5      # operator deposit inside the consolidated wallet, 08-23
 SITE = "https://halobartku.github.io/agent-forge-site/registry/"
 MANIFEST = "https://audit.askzephy.com/"
