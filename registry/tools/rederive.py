@@ -17,9 +17,10 @@ Checks (method is the same one published on the registry page):
      income event hide as PASS for 20+ runs). (Method changed 2026-08-30: wallet consolidation after the signer
      compromise emptied the side wallet; the old method — read the side
      wallet directly — returned 0 and no longer derived the number.)
-  1b. old wallets 0x4f75...22b4 (task earnings) and 0x7eb6...5BcB (old
-     deposit) must BOTH be empty; a non-zero balance there means earnings
-     landed somewhere the headline does not count — FAIL so we notice.
+  1b. side float 0x4f75...22b4 is a DECLARED operating wallet (since
+     2026-09-30): it must hold <= SIDE_FLOAT_CAP (a fee float, not a store
+     of value) — above cap FAILs so we notice funds parked outside the
+     headline method. Old deposit wallet 0x7eb6...5BcB must stay empty.
   2. grants ledger: row count matches the published count; paid rows are
      numeric-only (delegates unit assertion to check-units.py).
   3. registry page + every linked data file returns 200 non-empty.
@@ -44,7 +45,12 @@ FUNDER_WALLET = "0xFe49b37c0CefD15239300bd1BfeD9d54C44c4ee9"      # operator fun
                                                                # (3.00 USDC moved here from MAIN for the 1f916.ai
                                                                #  proof-of-funds entry, txs 0x77483e5e…f2cada + 0x4e80eb2b…252df783;
                                                                #  internal transfer between wallets we control — earned counts BOTH)
-OLD_EARNINGS_WALLET = "0x4f759a662d2ab2e4c5f67ff4fed6ce08420922b4"  # emptied 2026-08-27T20:37Z (tx 0xd5f886a3…9b8e578)
+SIDE_FLOAT_WALLET = "0x4f759a662d2ab2e4c5f67ff4fed6ce08420922b4"  # DECLARED OPERATING FLOAT since 2026-09-30T14:35Z
+                                                               # (was the task earnings wallet, consolidated away 2026-08-27, then
+                                                               #  re-funded TWICE on 09-30 as the x402 pitch-fee float for TaskMarket;
+                                                               #  promoted to a third term of the sum after the second re-fund re-broke
+                                                               #  the old "must be empty" invariant within 10h of the first fix)
+SIDE_FLOAT_CAP = 0.10   # a fee float never needs more than this; above it, funds belong back in MAIN
 OLD_DEPOSIT_WALLET = "0x7eb6FE8EFFC5a7aF726ac1BD97B0aa0c7Cc55BcB"    # emptied 2026-08-29T21:02Z (tx 0xbfd5cd8c…42bc3c9)
 PUBLISHED_EARNED = 0.742138  # registry headline, as of 2026-09-30
                               # + 0.005 Krimskrams feedback payout #150 (09-07T16:41:37Z, tx 0x0c9327ae…585f9655,
@@ -116,26 +122,32 @@ def main():
     try:
         bal = usdc_balance(MAIN_WALLET)
         fund = usdc_balance(FUNDER_WALLET)
-        earned = round(bal + fund - PUBLISHED_DEPOSIT, 6)
+        side = usdc_balance(SIDE_FLOAT_WALLET)
+        earned = round(bal + fund + side - PUBLISHED_DEPOSIT, 6)
         drift = round(earned - PUBLISHED_EARNED, 6)
         if abs(drift) > 0.0005:
             check("earned-beyond-deposit", False,
-                  f"CHAIN balances {bal} + {fund} − deposit {PUBLISHED_DEPOSIT} = {earned} vs published {PUBLISHED_EARNED} (drift {drift:+.5f}) — "
+                  f"CHAIN balances {bal} + {fund} + {side} − deposit {PUBLISHED_DEPOSIT} = {earned} vs published {PUBLISHED_EARNED} (drift {drift:+.5f}) — "
                   f"UPDATE PUBLISHED_EARNED + provenance in index.html, log in CORRECTIONS.md, then republish")
         else:
             check("earned-beyond-deposit", True,
-                  f"balances {bal} + {fund} − {PUBLISHED_DEPOSIT} = {earned} ~= published {PUBLISHED_EARNED}")
+                  f"balances {bal} + {fund} + {side} − {PUBLISHED_DEPOSIT} = {earned} ~= published {PUBLISHED_EARNED}")
     except Exception as e:
         check("earned-beyond-deposit", False, str(e)[:200])
-    for wname, waddr in [("old-earnings-wallet-empty", OLD_EARNINGS_WALLET),
-                         ("old-deposit-wallet-empty", OLD_DEPOSIT_WALLET)]:
-        try:
-            b = usdc_balance(waddr)
-            check(wname, b < 0.000001,
-                  f"{b} USDC (must be 0: funds consolidated to 0xf4729…771e on 2026-08-29; "
-                  f"a non-zero balance here means earnings the headline does not count)")
-        except Exception as e:
-            check(wname, False, str(e)[:200])
+    try:
+        b = usdc_balance(SIDE_FLOAT_WALLET)
+        check("side-float-wallet-bounded", b <= SIDE_FLOAT_CAP,
+              f"{b} USDC (declared operating float since 2026-09-30, cap {SIDE_FLOAT_CAP}; "
+              f"above cap means funds parked outside the headline method — sweep back to 0xf4729…771e)")
+    except Exception as e:
+        check("side-float-wallet-bounded", False, str(e)[:200])
+    try:
+        b = usdc_balance(OLD_DEPOSIT_WALLET)
+        check("old-deposit-wallet-empty", b < 0.000001,
+              f"{b} USDC (must be 0: funds consolidated to 0xf4729…771e on 2026-08-29; "
+              f"a non-zero balance here means earnings the headline does not count)")
+    except Exception as e:
+        check("old-deposit-wallet-empty", False, str(e)[:200])
 
     # 3: site files live
     for f in ["", "CORRECTIONS.md", "data/whale-watch.jsonl", "data/census-daily-index.jsonl",
