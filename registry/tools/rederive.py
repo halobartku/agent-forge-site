@@ -52,7 +52,7 @@ SIDE_FLOAT_WALLET = "0x4f759a662d2ab2e4c5f67ff4fed6ce08420922b4"  # DECLARED OPE
                                                                #  the old "must be empty" invariant within 10h of the first fix)
 SIDE_FLOAT_CAP = 0.10   # a fee float never needs more than this; above it, funds belong back in MAIN
 OLD_DEPOSIT_WALLET = "0x7eb6FE8EFFC5a7aF726ac1BD97B0aa0c7Cc55BcB"    # emptied 2026-08-29T21:02Z (tx 0xbfd5cd8c…42bc3c9)
-PUBLISHED_EARNED = 0.742138  # registry headline, as of 2026-09-30
+PUBLISHED_EARNED = 0.741138  # registry headline, as of 2026-11-03 (−0.001 TaskMarket x402 submission fee TSK-C7E0G86R)
                               # + 0.005 Krimskrams feedback payout #150 (09-07T16:41:37Z, tx 0x0c9327ae…585f9655,
                               #   misattributed 09-10 as first x402 sale, retracted 09-11) = 1.843138 NET
                               # 0.0254 through 08-23 + 0.925 TSK-BXTCSH8H rank 1 (08-24) − 0.001 entry fee (08-25)
