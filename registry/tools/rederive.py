@@ -52,7 +52,7 @@ SIDE_FLOAT_WALLET = "0x4f759a662d2ab2e4c5f67ff4fed6ce08420922b4"  # DECLARED OPE
                                                                #  the old "must be empty" invariant within 10h of the first fix)
 SIDE_FLOAT_CAP = 0.10   # a fee float never needs more than this; above it, funds belong back in MAIN
 OLD_DEPOSIT_WALLET = "0x7eb6FE8EFFC5a7aF726ac1BD97B0aa0c7Cc55BcB"    # emptied 2026-08-29T21:02Z (tx 0xbfd5cd8c…42bc3c9)
-PUBLISHED_EARNED = -0.261862  # registry headline, as of 2026-11-23 (−0.001 TaskMarket x402 fee TSK-2DYP3ZP0 sera-survey-002, 2026-11-23T13:49:58Z block 61257112 tx 0x54ce9f33…f362af, float 0.047→0.046; prior −2× 0.001 TSK-KR95B88S sera-survey-001 on 11-17: submission 13:55:01Z block 58666630 tx 0xff2dfa70…bbd650 + resubmission 19:57:11Z block 58775280 tx 0x7737ee52…fede72b, float 0.049→0.047; prior −0.001 TSK-C7E0G86R as of 2026-11-03)
+PUBLISHED_EARNED = -0.262862  # registry headline, as of 2026-11-28: prior −0.261862 (2026-11-25, incl. −1.0 USDC TSK-N5TC66F3 Relay bridge deposit 2026-11-24T19:55:00Z) − 0.001 USDC one further TaskMarket x402 submission fee settled from the declared fee float 0x4f75…22b4 (float 0.046→0.045, custodial TaskMarket settlement, exact task not identified at source time). Verified live: 19.292138 + 1.900000 + 0.045000 − 21.5 = −0.262862 exactly.
                               # + 0.005 Krimskrams feedback payout #150 (09-07T16:41:37Z, tx 0x0c9327ae…585f9655,
                               #   misattributed 09-10 as first x402 sale, retracted 09-11) = 1.843138 NET
                               # 0.0254 through 08-23 + 0.925 TSK-BXTCSH8H rank 1 (08-24) − 0.001 entry fee (08-25)
